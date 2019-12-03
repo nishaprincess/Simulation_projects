@@ -1,0 +1,9 @@
+
+d(n)      0.361 minutes
+
+
+q(n)     0.360
+
+u(n)          0.492
+
+ Time simulation ended    1000.469 minutes

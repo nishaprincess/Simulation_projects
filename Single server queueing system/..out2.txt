@@ -1,0 +1,3001 @@
+
+ customer no 1  and interarrival :0.916 minutes
+
+
+ customer no 2  and interarrival :0.060 minutes
+
+
+ customer no 3  and interarrival :1.777 minutes
+
+
+ customer no 4  and interarrival :0.192 minutes
+
+
+ customer no 5  and interarrival :0.843 minutes
+
+
+ customer no 6  and interarrival :1.143 minutes
+
+
+ customer no 7  and interarrival :1.479 minutes
+
+
+ customer no 8  and interarrival :1.339 minutes
+
+
+ customer no 9  and interarrival :0.051 minutes
+
+
+ customer no 9  and interarrival :1.981 minutes
+
+
+ customer no 11  and interarrival :0.717 minutes
+
+
+ customer no 12  and interarrival :0.195 minutes
+
+
+ customer no 13  and interarrival :0.188 minutes
+
+
+ customer no 14  and interarrival :2.829 minutes
+
+
+ customer no 15  and interarrival :0.467 minutes
+
+
+ customer no 16  and interarrival :1.143 minutes
+
+
+ customer no 17  and interarrival :0.568 minutes
+
+
+ customer no 18  and interarrival :0.321 minutes
+
+
+ customer no 18  and interarrival :0.292 minutes
+
+
+ customer no 19  and interarrival :0.288 minutes
+
+
+ customer no 20  and interarrival :0.677 minutes
+
+
+ customer no 20  and interarrival :0.089 minutes
+
+
+ customer no 20  and interarrival :0.272 minutes
+
+
+ customer no 21  and interarrival :0.067 minutes
+
+
+ customer no 21  and interarrival :0.237 minutes
+
+
+ customer no 22  and interarrival :0.231 minutes
+
+
+ customer no 23  and interarrival :0.194 minutes
+
+
+ customer no 23  and interarrival :1.290 minutes
+
+
+ customer no 28  and interarrival :0.974 minutes
+
+
+ customer no 29  and interarrival :0.183 minutes
+
+
+ customer no 29  and interarrival :0.328 minutes
+
+
+ customer no 29  and interarrival :0.912 minutes
+
+
+ customer no 33  and interarrival :0.674 minutes
+
+
+ customer no 34  and interarrival :0.556 minutes
+
+
+ customer no 35  and interarrival :2.221 minutes
+
+
+ customer no 36  and interarrival :3.874 minutes
+
+
+ customer no 37  and interarrival :0.177 minutes
+
+
+ customer no 38  and interarrival :1.480 minutes
+
+
+ customer no 39  and interarrival :0.688 minutes
+
+
+ customer no 40  and interarrival :4.205 minutes
+
+
+ customer no 41  and interarrival :0.411 minutes
+
+
+ customer no 42  and interarrival :1.253 minutes
+
+
+ customer no 43  and interarrival :0.044 minutes
+
+
+ customer no 44  and interarrival :1.152 minutes
+
+
+ customer no 44  and interarrival :0.197 minutes
+
+
+ customer no 44  and interarrival :0.527 minutes
+
+
+ customer no 45  and interarrival :0.589 minutes
+
+
+ customer no 46  and interarrival :0.059 minutes
+
+
+ customer no 46  and interarrival :0.730 minutes
+
+
+ customer no 48  and interarrival :0.044 minutes
+
+
+ customer no 48  and interarrival :1.085 minutes
+
+
+ customer no 48  and interarrival :0.220 minutes
+
+
+ customer no 49  and interarrival :0.267 minutes
+
+
+ customer no 49  and interarrival :0.086 minutes
+
+
+ customer no 49  and interarrival :1.439 minutes
+
+
+ customer no 54  and interarrival :1.931 minutes
+
+
+ customer no 57  and interarrival :0.068 minutes
+
+
+ customer no 58  and interarrival :2.068 minutes
+
+
+ customer no 59  and interarrival :2.749 minutes
+
+
+ customer no 60  and interarrival :0.312 minutes
+
+
+ customer no 61  and interarrival :0.852 minutes
+
+
+ customer no 62  and interarrival :1.091 minutes
+
+
+ customer no 63  and interarrival :0.890 minutes
+
+
+ customer no 64  and interarrival :4.197 minutes
+
+
+ customer no 65  and interarrival :0.540 minutes
+
+
+ customer no 66  and interarrival :0.552 minutes
+
+
+ customer no 67  and interarrival :1.929 minutes
+
+
+ customer no 68  and interarrival :0.364 minutes
+
+
+ customer no 69  and interarrival :0.179 minutes
+
+
+ customer no 69  and interarrival :0.027 minutes
+
+
+ customer no 69  and interarrival :1.602 minutes
+
+
+ customer no 71  and interarrival :1.043 minutes
+
+
+ customer no 71  and interarrival :0.028 minutes
+
+
+ customer no 71  and interarrival :2.053 minutes
+
+
+ customer no 75  and interarrival :3.248 minutes
+
+
+ customer no 76  and interarrival :0.634 minutes
+
+
+ customer no 77  and interarrival :0.095 minutes
+
+
+ customer no 78  and interarrival :2.321 minutes
+
+
+ customer no 79  and interarrival :1.089 minutes
+
+
+ customer no 80  and interarrival :0.444 minutes
+
+
+ customer no 81  and interarrival :0.009 minutes
+
+
+ customer no 81  and interarrival :1.261 minutes
+
+
+ customer no 81  and interarrival :0.908 minutes
+
+
+ customer no 84  and interarrival :0.288 minutes
+
+
+ customer no 85  and interarrival :0.935 minutes
+
+
+ customer no 86  and interarrival :2.443 minutes
+
+
+ customer no 87  and interarrival :0.288 minutes
+
+
+ customer no 88  and interarrival :0.543 minutes
+
+
+ customer no 89  and interarrival :3.101 minutes
+
+
+ customer no 90  and interarrival :0.312 minutes
+
+
+ customer no 91  and interarrival :0.411 minutes
+
+
+ customer no 92  and interarrival :2.295 minutes
+
+
+ customer no 93  and interarrival :2.405 minutes
+
+
+ customer no 94  and interarrival :1.113 minutes
+
+
+ customer no 95  and interarrival :0.386 minutes
+
+
+ customer no 96  and interarrival :0.120 minutes
+
+
+ customer no 97  and interarrival :0.049 minutes
+
+
+ customer no 97  and interarrival :0.839 minutes
+
+
+ customer no 99  and interarrival :0.804 minutes
+
+
+ customer no 100  and interarrival :0.307 minutes
+
+
+ customer no 101  and interarrival :0.364 minutes
+
+
+ customer no 101  and interarrival :0.051 minutes
+
+
+ customer no 101  and interarrival :2.418 minutes
+
+
+ customer no 104  and interarrival :0.575 minutes
+
+
+ customer no 105  and interarrival :0.227 minutes
+
+
+ customer no 106  and interarrival :0.032 minutes
+
+
+ customer no 107  and interarrival :0.112 minutes
+
+
+ customer no 107  and interarrival :0.201 minutes
+
+
+ customer no 108  and interarrival :4.584 minutes
+
+
+ customer no 110  and interarrival :0.910 minutes
+
+
+ customer no 111  and interarrival :1.557 minutes
+
+
+ customer no 112  and interarrival :0.392 minutes
+
+
+ customer no 113  and interarrival :0.117 minutes
+
+
+ customer no 114  and interarrival :0.264 minutes
+
+
+ customer no 114  and interarrival :0.944 minutes
+
+
+ customer no 115  and interarrival :0.615 minutes
+
+
+ customer no 117  and interarrival :4.355 minutes
+
+
+ customer no 118  and interarrival :0.110 minutes
+
+
+ customer no 119  and interarrival :0.119 minutes
+
+
+ customer no 119  and interarrival :1.223 minutes
+
+
+ customer no 121  and interarrival :0.250 minutes
+
+
+ customer no 122  and interarrival :0.765 minutes
+
+
+ customer no 123  and interarrival :0.282 minutes
+
+
+ customer no 124  and interarrival :0.813 minutes
+
+
+ customer no 125  and interarrival :0.903 minutes
+
+
+ customer no 126  and interarrival :1.298 minutes
+
+
+ customer no 127  and interarrival :0.034 minutes
+
+
+ customer no 128  and interarrival :1.370 minutes
+
+
+ customer no 129  and interarrival :0.490 minutes
+
+
+ customer no 130  and interarrival :2.550 minutes
+
+
+ customer no 131  and interarrival :1.064 minutes
+
+
+ customer no 132  and interarrival :0.418 minutes
+
+
+ customer no 133  and interarrival :0.092 minutes
+
+
+ customer no 133  and interarrival :0.062 minutes
+
+
+ customer no 133  and interarrival :0.041 minutes
+
+
+ customer no 133  and interarrival :0.082 minutes
+
+
+ customer no 133  and interarrival :1.246 minutes
+
+
+ customer no 134  and interarrival :0.530 minutes
+
+
+ customer no 134  and interarrival :0.217 minutes
+
+
+ customer no 135  and interarrival :3.056 minutes
+
+
+ customer no 140  and interarrival :0.948 minutes
+
+
+ customer no 141  and interarrival :2.957 minutes
+
+
+ customer no 143  and interarrival :0.049 minutes
+
+
+ customer no 144  and interarrival :0.094 minutes
+
+
+ customer no 144  and interarrival :0.145 minutes
+
+
+ customer no 144  and interarrival :1.195 minutes
+
+
+ customer no 147  and interarrival :1.192 minutes
+
+
+ customer no 148  and interarrival :0.836 minutes
+
+
+ customer no 149  and interarrival :0.220 minutes
+
+
+ customer no 150  and interarrival :0.571 minutes
+
+
+ customer no 151  and interarrival :0.036 minutes
+
+
+ customer no 151  and interarrival :0.017 minutes
+
+
+ customer no 151  and interarrival :0.794 minutes
+
+
+ customer no 154  and interarrival :1.105 minutes
+
+
+ customer no 155  and interarrival :0.118 minutes
+
+
+ customer no 156  and interarrival :0.403 minutes
+
+
+ customer no 157  and interarrival :0.608 minutes
+
+
+ customer no 158  and interarrival :0.014 minutes
+
+
+ customer no 158  and interarrival :0.182 minutes
+
+
+ customer no 159  and interarrival :0.044 minutes
+
+
+ customer no 159  and interarrival :0.058 minutes
+
+
+ customer no 159  and interarrival :1.674 minutes
+
+
+ customer no 161  and interarrival :1.268 minutes
+
+
+ customer no 162  and interarrival :0.147 minutes
+
+
+ customer no 162  and interarrival :0.382 minutes
+
+
+ customer no 162  and interarrival :0.460 minutes
+
+
+ customer no 163  and interarrival :0.300 minutes
+
+
+ customer no 163  and interarrival :0.200 minutes
+
+
+ customer no 164  and interarrival :0.241 minutes
+
+
+ customer no 164  and interarrival :0.700 minutes
+
+
+ customer no 165  and interarrival :1.325 minutes
+
+
+ customer no 168  and interarrival :1.439 minutes
+
+
+ customer no 170  and interarrival :0.384 minutes
+
+
+ customer no 170  and interarrival :0.068 minutes
+
+
+ customer no 170  and interarrival :0.013 minutes
+
+
+ customer no 170  and interarrival :0.484 minutes
+
+
+ customer no 171  and interarrival :1.137 minutes
+
+
+ customer no 174  and interarrival :0.121 minutes
+
+
+ customer no 175  and interarrival :0.179 minutes
+
+
+ customer no 175  and interarrival :0.314 minutes
+
+
+ customer no 175  and interarrival :0.204 minutes
+
+
+ customer no 175  and interarrival :1.904 minutes
+
+
+ customer no 179  and interarrival :0.753 minutes
+
+
+ customer no 183  and interarrival :1.934 minutes
+
+
+ customer no 185  and interarrival :1.694 minutes
+
+
+ customer no 186  and interarrival :0.734 minutes
+
+
+ customer no 187  and interarrival :1.560 minutes
+
+
+ customer no 188  and interarrival :0.487 minutes
+
+
+ customer no 189  and interarrival :2.450 minutes
+
+
+ customer no 190  and interarrival :0.577 minutes
+
+
+ customer no 191  and interarrival :0.364 minutes
+
+
+ customer no 192  and interarrival :0.032 minutes
+
+
+ customer no 193  and interarrival :1.300 minutes
+
+
+ customer no 194  and interarrival :1.128 minutes
+
+
+ customer no 195  and interarrival :1.387 minutes
+
+
+ customer no 196  and interarrival :0.671 minutes
+
+
+ customer no 197  and interarrival :0.318 minutes
+
+
+ customer no 198  and interarrival :1.519 minutes
+
+
+ customer no 199  and interarrival :0.119 minutes
+
+
+ customer no 200  and interarrival :1.387 minutes
+
+
+ customer no 201  and interarrival :0.291 minutes
+
+
+ customer no 202  and interarrival :1.336 minutes
+
+
+ customer no 203  and interarrival :0.221 minutes
+
+
+ customer no 204  and interarrival :0.688 minutes
+
+
+ customer no 205  and interarrival :1.397 minutes
+
+
+ customer no 205  and interarrival :1.255 minutes
+
+
+ customer no 207  and interarrival :0.342 minutes
+
+
+ customer no 208  and interarrival :0.171 minutes
+
+
+ customer no 209  and interarrival :0.537 minutes
+
+
+ customer no 209  and interarrival :0.192 minutes
+
+
+ customer no 209  and interarrival :1.965 minutes
+
+
+ customer no 212  and interarrival :0.456 minutes
+
+
+ customer no 213  and interarrival :0.246 minutes
+
+
+ customer no 214  and interarrival :0.483 minutes
+
+
+ customer no 215  and interarrival :1.080 minutes
+
+
+ customer no 216  and interarrival :1.526 minutes
+
+
+ customer no 217  and interarrival :1.304 minutes
+
+
+ customer no 218  and interarrival :1.431 minutes
+
+
+ customer no 219  and interarrival :0.016 minutes
+
+
+ customer no 220  and interarrival :2.532 minutes
+
+
+ customer no 221  and interarrival :0.602 minutes
+
+
+ customer no 222  and interarrival :0.923 minutes
+
+
+ customer no 223  and interarrival :0.384 minutes
+
+
+ customer no 223  and interarrival :1.079 minutes
+
+
+ customer no 225  and interarrival :1.063 minutes
+
+
+ customer no 226  and interarrival :0.347 minutes
+
+
+ customer no 227  and interarrival :0.669 minutes
+
+
+ customer no 228  and interarrival :0.135 minutes
+
+
+ customer no 229  and interarrival :1.436 minutes
+
+
+ customer no 230  and interarrival :2.055 minutes
+
+
+ customer no 231  and interarrival :0.301 minutes
+
+
+ customer no 232  and interarrival :0.403 minutes
+
+
+ customer no 233  and interarrival :0.262 minutes
+
+
+ customer no 234  and interarrival :0.945 minutes
+
+
+ customer no 235  and interarrival :1.553 minutes
+
+
+ customer no 236  and interarrival :1.765 minutes
+
+
+ customer no 237  and interarrival :0.670 minutes
+
+
+ customer no 238  and interarrival :1.936 minutes
+
+
+ customer no 239  and interarrival :1.523 minutes
+
+
+ customer no 240  and interarrival :0.288 minutes
+
+
+ customer no 241  and interarrival :0.410 minutes
+
+
+ customer no 242  and interarrival :0.557 minutes
+
+
+ customer no 243  and interarrival :0.578 minutes
+
+
+ customer no 244  and interarrival :0.593 minutes
+
+
+ customer no 245  and interarrival :2.473 minutes
+
+
+ customer no 246  and interarrival :1.070 minutes
+
+
+ customer no 247  and interarrival :0.189 minutes
+
+
+ customer no 248  and interarrival :1.060 minutes
+
+
+ customer no 249  and interarrival :0.130 minutes
+
+
+ customer no 250  and interarrival :1.935 minutes
+
+
+ customer no 251  and interarrival :2.008 minutes
+
+
+ customer no 252  and interarrival :0.158 minutes
+
+
+ customer no 253  and interarrival :0.089 minutes
+
+
+ customer no 253  and interarrival :2.024 minutes
+
+
+ customer no 255  and interarrival :0.183 minutes
+
+
+ customer no 256  and interarrival :1.789 minutes
+
+
+ customer no 257  and interarrival :0.086 minutes
+
+
+ customer no 258  and interarrival :0.433 minutes
+
+
+ customer no 259  and interarrival :0.059 minutes
+
+
+ customer no 259  and interarrival :1.127 minutes
+
+
+ customer no 260  and interarrival :1.614 minutes
+
+
+ customer no 262  and interarrival :2.073 minutes
+
+
+ customer no 263  and interarrival :1.169 minutes
+
+
+ customer no 264  and interarrival :1.878 minutes
+
+
+ customer no 265  and interarrival :0.338 minutes
+
+
+ customer no 266  and interarrival :0.265 minutes
+
+
+ customer no 267  and interarrival :0.295 minutes
+
+
+ customer no 267  and interarrival :0.119 minutes
+
+
+ customer no 268  and interarrival :1.620 minutes
+
+
+ customer no 270  and interarrival :3.299 minutes
+
+
+ customer no 271  and interarrival :0.450 minutes
+
+
+ customer no 272  and interarrival :1.087 minutes
+
+
+ customer no 273  and interarrival :0.301 minutes
+
+
+ customer no 274  and interarrival :0.353 minutes
+
+
+ customer no 275  and interarrival :0.189 minutes
+
+
+ customer no 276  and interarrival :3.136 minutes
+
+
+ customer no 277  and interarrival :0.165 minutes
+
+
+ customer no 278  and interarrival :0.388 minutes
+
+
+ customer no 279  and interarrival :0.362 minutes
+
+
+ customer no 279  and interarrival :0.458 minutes
+
+
+ customer no 279  and interarrival :0.007 minutes
+
+
+ customer no 279  and interarrival :0.574 minutes
+
+
+ customer no 281  and interarrival :0.028 minutes
+
+
+ customer no 281  and interarrival :0.540 minutes
+
+
+ customer no 283  and interarrival :0.285 minutes
+
+
+ customer no 283  and interarrival :1.200 minutes
+
+
+ customer no 286  and interarrival :0.868 minutes
+
+
+ customer no 287  and interarrival :1.001 minutes
+
+
+ customer no 289  and interarrival :1.367 minutes
+
+
+ customer no 290  and interarrival :2.164 minutes
+
+
+ customer no 291  and interarrival :0.423 minutes
+
+
+ customer no 292  and interarrival :2.101 minutes
+
+
+ customer no 293  and interarrival :0.541 minutes
+
+
+ customer no 294  and interarrival :0.160 minutes
+
+
+ customer no 295  and interarrival :1.001 minutes
+
+
+ customer no 295  and interarrival :0.271 minutes
+
+
+ customer no 297  and interarrival :1.049 minutes
+
+
+ customer no 298  and interarrival :0.217 minutes
+
+
+ customer no 299  and interarrival :1.203 minutes
+
+
+ customer no 300  and interarrival :3.155 minutes
+
+
+ customer no 301  and interarrival :0.120 minutes
+
+
+ customer no 302  and interarrival :0.155 minutes
+
+
+ customer no 302  and interarrival :1.031 minutes
+
+
+ customer no 304  and interarrival :2.044 minutes
+
+
+ customer no 305  and interarrival :0.576 minutes
+
+
+ customer no 306  and interarrival :0.129 minutes
+
+
+ customer no 307  and interarrival :0.100 minutes
+
+
+ customer no 307  and interarrival :2.935 minutes
+
+
+ customer no 309  and interarrival :1.669 minutes
+
+
+ customer no 310  and interarrival :0.339 minutes
+
+
+ customer no 311  and interarrival :0.087 minutes
+
+
+ customer no 311  and interarrival :0.570 minutes
+
+
+ customer no 312  and interarrival :0.371 minutes
+
+
+ customer no 313  and interarrival :1.203 minutes
+
+
+ customer no 313  and interarrival :0.263 minutes
+
+
+ customer no 313  and interarrival :1.449 minutes
+
+
+ customer no 317  and interarrival :0.169 minutes
+
+
+ customer no 318  and interarrival :0.351 minutes
+
+
+ customer no 319  and interarrival :1.867 minutes
+
+
+ customer no 319  and interarrival :0.217 minutes
+
+
+ customer no 319  and interarrival :0.234 minutes
+
+
+ customer no 319  and interarrival :0.187 minutes
+
+
+ customer no 319  and interarrival :0.750 minutes
+
+
+ customer no 319  and interarrival :0.693 minutes
+
+
+ customer no 321  and interarrival :2.201 minutes
+
+
+ customer no 323  and interarrival :0.279 minutes
+
+
+ customer no 323  and interarrival :3.396 minutes
+
+
+ customer no 328  and interarrival :0.598 minutes
+
+
+ customer no 329  and interarrival :0.379 minutes
+
+
+ customer no 330  and interarrival :1.621 minutes
+
+
+ customer no 331  and interarrival :0.272 minutes
+
+
+ customer no 332  and interarrival :1.434 minutes
+
+
+ customer no 333  and interarrival :0.875 minutes
+
+
+ customer no 334  and interarrival :0.562 minutes
+
+
+ customer no 335  and interarrival :0.596 minutes
+
+
+ customer no 336  and interarrival :0.748 minutes
+
+
+ customer no 337  and interarrival :0.707 minutes
+
+
+ customer no 338  and interarrival :1.390 minutes
+
+
+ customer no 339  and interarrival :2.048 minutes
+
+
+ customer no 340  and interarrival :0.512 minutes
+
+
+ customer no 341  and interarrival :0.906 minutes
+
+
+ customer no 342  and interarrival :0.042 minutes
+
+
+ customer no 343  and interarrival :0.263 minutes
+
+
+ customer no 343  and interarrival :0.152 minutes
+
+
+ customer no 344  and interarrival :0.176 minutes
+
+
+ customer no 344  and interarrival :0.742 minutes
+
+
+ customer no 345  and interarrival :0.123 minutes
+
+
+ customer no 345  and interarrival :2.406 minutes
+
+
+ customer no 348  and interarrival :0.684 minutes
+
+
+ customer no 350  and interarrival :0.239 minutes
+
+
+ customer no 350  and interarrival :0.180 minutes
+
+
+ customer no 352  and interarrival :1.378 minutes
+
+
+ customer no 353  and interarrival :2.748 minutes
+
+
+ customer no 354  and interarrival :0.892 minutes
+
+
+ customer no 355  and interarrival :0.425 minutes
+
+
+ customer no 356  and interarrival :0.632 minutes
+
+
+ customer no 356  and interarrival :0.198 minutes
+
+
+ customer no 356  and interarrival :1.190 minutes
+
+
+ customer no 357  and interarrival :2.147 minutes
+
+
+ customer no 360  and interarrival :0.648 minutes
+
+
+ customer no 361  and interarrival :0.730 minutes
+
+
+ customer no 361  and interarrival :0.968 minutes
+
+
+ customer no 363  and interarrival :0.640 minutes
+
+
+ customer no 364  and interarrival :0.538 minutes
+
+
+ customer no 365  and interarrival :0.727 minutes
+
+
+ customer no 366  and interarrival :0.526 minutes
+
+
+ customer no 367  and interarrival :0.385 minutes
+
+
+ customer no 368  and interarrival :0.560 minutes
+
+
+ customer no 369  and interarrival :3.184 minutes
+
+
+ customer no 370  and interarrival :0.243 minutes
+
+
+ customer no 371  and interarrival :0.015 minutes
+
+
+ customer no 371  and interarrival :0.643 minutes
+
+
+ customer no 373  and interarrival :0.686 minutes
+
+
+ customer no 374  and interarrival :0.957 minutes
+
+
+ customer no 375  and interarrival :0.992 minutes
+
+
+ customer no 376  and interarrival :1.720 minutes
+
+
+ customer no 377  and interarrival :1.283 minutes
+
+
+ customer no 378  and interarrival :6.860 minutes
+
+
+ customer no 379  and interarrival :0.526 minutes
+
+
+ customer no 380  and interarrival :1.140 minutes
+
+
+ customer no 381  and interarrival :1.078 minutes
+
+
+ customer no 382  and interarrival :0.209 minutes
+
+
+ customer no 383  and interarrival :0.024 minutes
+
+
+ customer no 384  and interarrival :0.341 minutes
+
+
+ customer no 384  and interarrival :0.048 minutes
+
+
+ customer no 384  and interarrival :0.833 minutes
+
+
+ customer no 385  and interarrival :1.664 minutes
+
+
+ customer no 386  and interarrival :3.180 minutes
+
+
+ customer no 389  and interarrival :0.182 minutes
+
+
+ customer no 390  and interarrival :2.317 minutes
+
+
+ customer no 391  and interarrival :0.059 minutes
+
+
+ customer no 392  and interarrival :0.291 minutes
+
+
+ customer no 393  and interarrival :0.221 minutes
+
+
+ customer no 394  and interarrival :0.815 minutes
+
+
+ customer no 395  and interarrival :3.263 minutes
+
+
+ customer no 396  and interarrival :2.357 minutes
+
+
+ customer no 397  and interarrival :2.022 minutes
+
+
+ customer no 398  and interarrival :0.210 minutes
+
+
+ customer no 399  and interarrival :2.870 minutes
+
+
+ customer no 400  and interarrival :0.672 minutes
+
+
+ customer no 401  and interarrival :0.940 minutes
+
+
+ customer no 402  and interarrival :1.164 minutes
+
+
+ customer no 403  and interarrival :0.456 minutes
+
+
+ customer no 404  and interarrival :0.733 minutes
+
+
+ customer no 404  and interarrival :0.652 minutes
+
+
+ customer no 406  and interarrival :0.815 minutes
+
+
+ customer no 407  and interarrival :1.564 minutes
+
+
+ customer no 408  and interarrival :0.563 minutes
+
+
+ customer no 409  and interarrival :0.758 minutes
+
+
+ customer no 410  and interarrival :1.791 minutes
+
+
+ customer no 411  and interarrival :0.597 minutes
+
+
+ customer no 412  and interarrival :0.921 minutes
+
+
+ customer no 413  and interarrival :0.443 minutes
+
+
+ customer no 413  and interarrival :0.127 minutes
+
+
+ customer no 414  and interarrival :3.129 minutes
+
+
+ customer no 416  and interarrival :1.091 minutes
+
+
+ customer no 417  and interarrival :0.842 minutes
+
+
+ customer no 418  and interarrival :0.782 minutes
+
+
+ customer no 419  and interarrival :0.026 minutes
+
+
+ customer no 420  and interarrival :0.292 minutes
+
+
+ customer no 420  and interarrival :0.622 minutes
+
+
+ customer no 421  and interarrival :1.713 minutes
+
+
+ customer no 423  and interarrival :0.863 minutes
+
+
+ customer no 424  and interarrival :0.174 minutes
+
+
+ customer no 425  and interarrival :0.641 minutes
+
+
+ customer no 426  and interarrival :0.921 minutes
+
+
+ customer no 427  and interarrival :1.155 minutes
+
+
+ customer no 428  and interarrival :0.801 minutes
+
+
+ customer no 429  and interarrival :1.194 minutes
+
+
+ customer no 430  and interarrival :0.462 minutes
+
+
+ customer no 431  and interarrival :0.156 minutes
+
+
+ customer no 432  and interarrival :1.208 minutes
+
+
+ customer no 433  and interarrival :0.069 minutes
+
+
+ customer no 433  and interarrival :0.264 minutes
+
+
+ customer no 433  and interarrival :0.597 minutes
+
+
+ customer no 434  and interarrival :0.804 minutes
+
+
+ customer no 437  and interarrival :2.019 minutes
+
+
+ customer no 438  and interarrival :2.260 minutes
+
+
+ customer no 439  and interarrival :0.395 minutes
+
+
+ customer no 440  and interarrival :0.044 minutes
+
+
+ customer no 441  and interarrival :0.400 minutes
+
+
+ customer no 442  and interarrival :0.192 minutes
+
+
+ customer no 443  and interarrival :0.086 minutes
+
+
+ customer no 443  and interarrival :0.637 minutes
+
+
+ customer no 443  and interarrival :2.250 minutes
+
+
+ customer no 446  and interarrival :0.250 minutes
+
+
+ customer no 447  and interarrival :1.879 minutes
+
+
+ customer no 448  and interarrival :0.317 minutes
+
+
+ customer no 449  and interarrival :0.137 minutes
+
+
+ customer no 449  and interarrival :1.618 minutes
+
+
+ customer no 451  and interarrival :0.467 minutes
+
+
+ customer no 451  and interarrival :1.615 minutes
+
+
+ customer no 453  and interarrival :0.005 minutes
+
+
+ customer no 453  and interarrival :0.100 minutes
+
+
+ customer no 453  and interarrival :2.493 minutes
+
+
+ customer no 454  and interarrival :0.746 minutes
+
+
+ customer no 455  and interarrival :2.204 minutes
+
+
+ customer no 458  and interarrival :0.024 minutes
+
+
+ customer no 459  and interarrival :0.723 minutes
+
+
+ customer no 460  and interarrival :3.894 minutes
+
+
+ customer no 461  and interarrival :1.034 minutes
+
+
+ customer no 462  and interarrival :0.010 minutes
+
+
+ customer no 463  and interarrival :0.594 minutes
+
+
+ customer no 464  and interarrival :0.117 minutes
+
+
+ customer no 464  and interarrival :1.717 minutes
+
+
+ customer no 466  and interarrival :2.000 minutes
+
+
+ customer no 467  and interarrival :0.618 minutes
+
+
+ customer no 468  and interarrival :2.216 minutes
+
+
+ customer no 469  and interarrival :3.958 minutes
+
+
+ customer no 470  and interarrival :0.118 minutes
+
+
+ customer no 471  and interarrival :0.539 minutes
+
+
+ customer no 472  and interarrival :2.026 minutes
+
+
+ customer no 473  and interarrival :0.469 minutes
+
+
+ customer no 474  and interarrival :0.166 minutes
+
+
+ customer no 474  and interarrival :1.676 minutes
+
+
+ customer no 475  and interarrival :0.882 minutes
+
+
+ customer no 476  and interarrival :1.194 minutes
+
+
+ customer no 476  and interarrival :0.389 minutes
+
+
+ customer no 477  and interarrival :2.190 minutes
+
+
+ customer no 480  and interarrival :0.047 minutes
+
+
+ customer no 481  and interarrival :2.483 minutes
+
+
+ customer no 482  and interarrival :2.456 minutes
+
+
+ customer no 483  and interarrival :1.700 minutes
+
+
+ customer no 484  and interarrival :0.096 minutes
+
+
+ customer no 485  and interarrival :0.399 minutes
+
+
+ customer no 486  and interarrival :0.461 minutes
+
+
+ customer no 486  and interarrival :1.747 minutes
+
+
+ customer no 487  and interarrival :0.914 minutes
+
+
+ customer no 489  and interarrival :3.141 minutes
+
+
+ customer no 490  and interarrival :0.256 minutes
+
+
+ customer no 491  and interarrival :1.156 minutes
+
+
+ customer no 492  and interarrival :0.096 minutes
+
+
+ customer no 493  and interarrival :0.502 minutes
+
+
+ customer no 493  and interarrival :2.659 minutes
+
+
+ customer no 495  and interarrival :0.794 minutes
+
+
+ customer no 496  and interarrival :1.519 minutes
+
+
+ customer no 497  and interarrival :0.939 minutes
+
+
+ customer no 498  and interarrival :0.426 minutes
+
+
+ customer no 499  and interarrival :1.227 minutes
+
+
+ customer no 500  and interarrival :0.161 minutes
+
+
+ customer no 501  and interarrival :0.573 minutes
+
+
+ customer no 502  and interarrival :0.112 minutes
+
+
+ customer no 503  and interarrival :0.324 minutes
+
+
+ customer no 504  and interarrival :2.098 minutes
+
+
+ customer no 505  and interarrival :0.316 minutes
+
+
+ customer no 506  and interarrival :0.575 minutes
+
+
+ customer no 507  and interarrival :1.192 minutes
+
+
+ customer no 508  and interarrival :2.524 minutes
+
+
+ customer no 509  and interarrival :0.861 minutes
+
+
+ customer no 510  and interarrival :1.467 minutes
+
+
+ customer no 511  and interarrival :2.524 minutes
+
+
+ customer no 512  and interarrival :0.552 minutes
+
+
+ customer no 513  and interarrival :0.856 minutes
+
+
+ customer no 514  and interarrival :0.466 minutes
+
+
+ customer no 515  and interarrival :1.020 minutes
+
+
+ customer no 516  and interarrival :0.751 minutes
+
+
+ customer no 517  and interarrival :0.278 minutes
+
+
+ customer no 518  and interarrival :0.595 minutes
+
+
+ customer no 519  and interarrival :0.752 minutes
+
+
+ customer no 519  and interarrival :0.149 minutes
+
+
+ customer no 519  and interarrival :2.875 minutes
+
+
+ customer no 522  and interarrival :0.149 minutes
+
+
+ customer no 523  and interarrival :0.299 minutes
+
+
+ customer no 523  and interarrival :2.749 minutes
+
+
+ customer no 525  and interarrival :0.161 minutes
+
+
+ customer no 526  and interarrival :0.010 minutes
+
+
+ customer no 526  and interarrival :1.162 minutes
+
+
+ customer no 528  and interarrival :1.461 minutes
+
+
+ customer no 528  and interarrival :3.649 minutes
+
+
+ customer no 530  and interarrival :0.395 minutes
+
+
+ customer no 531  and interarrival :0.109 minutes
+
+
+ customer no 532  and interarrival :1.889 minutes
+
+
+ customer no 533  and interarrival :1.196 minutes
+
+
+ customer no 534  and interarrival :0.186 minutes
+
+
+ customer no 535  and interarrival :0.990 minutes
+
+
+ customer no 536  and interarrival :1.483 minutes
+
+
+ customer no 537  and interarrival :0.581 minutes
+
+
+ customer no 538  and interarrival :0.235 minutes
+
+
+ customer no 539  and interarrival :1.111 minutes
+
+
+ customer no 540  and interarrival :1.141 minutes
+
+
+ customer no 541  and interarrival :0.323 minutes
+
+
+ customer no 542  and interarrival :1.158 minutes
+
+
+ customer no 543  and interarrival :1.524 minutes
+
+
+ customer no 544  and interarrival :0.385 minutes
+
+
+ customer no 545  and interarrival :0.195 minutes
+
+
+ customer no 546  and interarrival :2.476 minutes
+
+
+ customer no 547  and interarrival :0.051 minutes
+
+
+ customer no 548  and interarrival :0.432 minutes
+
+
+ customer no 549  and interarrival :3.097 minutes
+
+
+ customer no 550  and interarrival :0.476 minutes
+
+
+ customer no 551  and interarrival :0.500 minutes
+
+
+ customer no 552  and interarrival :2.456 minutes
+
+
+ customer no 553  and interarrival :0.242 minutes
+
+
+ customer no 554  and interarrival :0.205 minutes
+
+
+ customer no 554  and interarrival :2.275 minutes
+
+
+ customer no 556  and interarrival :0.159 minutes
+
+
+ customer no 557  and interarrival :0.095 minutes
+
+
+ customer no 557  and interarrival :0.334 minutes
+
+
+ customer no 558  and interarrival :0.246 minutes
+
+
+ customer no 559  and interarrival :1.587 minutes
+
+
+ customer no 561  and interarrival :0.119 minutes
+
+
+ customer no 562  and interarrival :0.250 minutes
+
+
+ customer no 562  and interarrival :0.122 minutes
+
+
+ customer no 564  and interarrival :0.120 minutes
+
+
+ customer no 565  and interarrival :0.403 minutes
+
+
+ customer no 566  and interarrival :3.030 minutes
+
+
+ customer no 567  and interarrival :0.183 minutes
+
+
+ customer no 568  and interarrival :3.154 minutes
+
+
+ customer no 569  and interarrival :0.888 minutes
+
+
+ customer no 570  and interarrival :0.138 minutes
+
+
+ customer no 571  and interarrival :0.175 minutes
+
+
+ customer no 572  and interarrival :1.638 minutes
+
+
+ customer no 573  and interarrival :0.734 minutes
+
+
+ customer no 574  and interarrival :1.648 minutes
+
+
+ customer no 575  and interarrival :0.365 minutes
+
+
+ customer no 576  and interarrival :0.088 minutes
+
+
+ customer no 576  and interarrival :1.658 minutes
+
+
+ customer no 578  and interarrival :0.587 minutes
+
+
+ customer no 579  and interarrival :1.082 minutes
+
+
+ customer no 580  and interarrival :0.021 minutes
+
+
+ customer no 581  and interarrival :0.006 minutes
+
+
+ customer no 581  and interarrival :0.017 minutes
+
+
+ customer no 581  and interarrival :1.290 minutes
+
+
+ customer no 584  and interarrival :2.806 minutes
+
+
+ customer no 585  and interarrival :0.158 minutes
+
+
+ customer no 586  and interarrival :0.293 minutes
+
+
+ customer no 587  and interarrival :1.740 minutes
+
+
+ customer no 588  and interarrival :3.907 minutes
+
+
+ customer no 589  and interarrival :1.954 minutes
+
+
+ customer no 590  and interarrival :1.070 minutes
+
+
+ customer no 591  and interarrival :3.043 minutes
+
+
+ customer no 592  and interarrival :1.082 minutes
+
+
+ customer no 593  and interarrival :0.318 minutes
+
+
+ customer no 594  and interarrival :0.520 minutes
+
+
+ customer no 595  and interarrival :0.496 minutes
+
+
+ customer no 596  and interarrival :0.662 minutes
+
+
+ customer no 597  and interarrival :0.642 minutes
+
+
+ customer no 598  and interarrival :0.555 minutes
+
+
+ customer no 599  and interarrival :0.031 minutes
+
+
+ customer no 600  and interarrival :0.694 minutes
+
+
+ customer no 601  and interarrival :0.190 minutes
+
+
+ customer no 602  and interarrival :0.360 minutes
+
+
+ customer no 603  and interarrival :3.847 minutes
+
+
+ customer no 604  and interarrival :0.761 minutes
+
+
+ customer no 605  and interarrival :0.104 minutes
+
+
+ customer no 605  and interarrival :0.366 minutes
+
+
+ customer no 606  and interarrival :1.689 minutes
+
+
+ customer no 608  and interarrival :0.660 minutes
+
+
+ customer no 609  and interarrival :0.654 minutes
+
+
+ customer no 610  and interarrival :1.590 minutes
+
+
+ customer no 611  and interarrival :3.030 minutes
+
+
+ customer no 612  and interarrival :2.361 minutes
+
+
+ customer no 613  and interarrival :1.364 minutes
+
+
+ customer no 614  and interarrival :0.452 minutes
+
+
+ customer no 615  and interarrival :4.149 minutes
+
+
+ customer no 616  and interarrival :1.548 minutes
+
+
+ customer no 617  and interarrival :0.352 minutes
+
+
+ customer no 618  and interarrival :1.090 minutes
+
+
+ customer no 619  and interarrival :0.371 minutes
+
+
+ customer no 620  and interarrival :0.236 minutes
+
+
+ customer no 621  and interarrival :0.009 minutes
+
+
+ customer no 621  and interarrival :3.429 minutes
+
+
+ customer no 623  and interarrival :3.615 minutes
+
+
+ customer no 624  and interarrival :0.412 minutes
+
+
+ customer no 625  and interarrival :1.512 minutes
+
+
+ customer no 626  and interarrival :0.193 minutes
+
+
+ customer no 627  and interarrival :0.115 minutes
+
+
+ customer no 628  and interarrival :2.274 minutes
+
+
+ customer no 629  and interarrival :0.355 minutes
+
+
+ customer no 630  and interarrival :1.986 minutes
+
+
+ customer no 631  and interarrival :0.312 minutes
+
+
+ customer no 632  and interarrival :0.117 minutes
+
+
+ customer no 632  and interarrival :1.051 minutes
+
+
+ customer no 633  and interarrival :0.874 minutes
+
+
+ customer no 635  and interarrival :2.373 minutes
+
+
+ customer no 636  and interarrival :1.322 minutes
+
+
+ customer no 637  and interarrival :3.144 minutes
+
+
+ customer no 638  and interarrival :2.426 minutes
+
+
+ customer no 639  and interarrival :0.756 minutes
+
+
+ customer no 640  and interarrival :1.074 minutes
+
+
+ customer no 641  and interarrival :1.242 minutes
+
+
+ customer no 642  and interarrival :1.273 minutes
+
+
+ customer no 643  and interarrival :1.344 minutes
+
+
+ customer no 644  and interarrival :0.286 minutes
+
+
+ customer no 645  and interarrival :1.552 minutes
+
+
+ customer no 646  and interarrival :0.600 minutes
+
+
+ customer no 647  and interarrival :0.195 minutes
+
+
+ customer no 648  and interarrival :0.427 minutes
+
+
+ customer no 649  and interarrival :0.146 minutes
+
+
+ customer no 650  and interarrival :0.144 minutes
+
+
+ customer no 651  and interarrival :0.127 minutes
+
+
+ customer no 651  and interarrival :1.750 minutes
+
+
+ customer no 653  and interarrival :0.675 minutes
+
+
+ customer no 653  and interarrival :0.651 minutes
+
+
+ customer no 654  and interarrival :0.382 minutes
+
+
+ customer no 655  and interarrival :0.738 minutes
+
+
+ customer no 656  and interarrival :1.574 minutes
+
+
+ customer no 658  and interarrival :1.282 minutes
+
+
+ customer no 659  and interarrival :0.838 minutes
+
+
+ customer no 660  and interarrival :1.037 minutes
+
+
+ customer no 661  and interarrival :0.669 minutes
+
+
+ customer no 662  and interarrival :1.594 minutes
+
+
+ customer no 663  and interarrival :0.372 minutes
+
+
+ customer no 664  and interarrival :0.105 minutes
+
+
+ customer no 665  and interarrival :0.069 minutes
+
+
+ customer no 666  and interarrival :2.223 minutes
+
+
+ customer no 667  and interarrival :0.182 minutes
+
+
+ customer no 668  and interarrival :2.120 minutes
+
+
+ customer no 669  and interarrival :1.089 minutes
+
+
+ customer no 670  and interarrival :1.216 minutes
+
+
+ customer no 671  and interarrival :1.356 minutes
+
+
+ customer no 672  and interarrival :0.107 minutes
+
+
+ customer no 673  and interarrival :2.143 minutes
+
+
+ customer no 674  and interarrival :1.839 minutes
+
+
+ customer no 675  and interarrival :1.041 minutes
+
+
+ customer no 676  and interarrival :0.147 minutes
+
+
+ customer no 677  and interarrival :0.691 minutes
+
+
+ customer no 677  and interarrival :0.199 minutes
+
+
+ customer no 677  and interarrival :0.499 minutes
+
+
+ customer no 678  and interarrival :0.675 minutes
+
+
+ customer no 678  and interarrival :0.856 minutes
+
+
+ customer no 681  and interarrival :1.059 minutes
+
+
+ customer no 683  and interarrival :0.684 minutes
+
+
+ customer no 684  and interarrival :0.169 minutes
+
+
+ customer no 685  and interarrival :0.118 minutes
+
+
+ customer no 685  and interarrival :0.926 minutes
+
+
+ customer no 686  and interarrival :0.927 minutes
+
+
+ customer no 688  and interarrival :0.913 minutes
+
+
+ customer no 689  and interarrival :0.683 minutes
+
+
+ customer no 690  and interarrival :0.104 minutes
+
+
+ customer no 691  and interarrival :0.902 minutes
+
+
+ customer no 692  and interarrival :0.435 minutes
+
+
+ customer no 693  and interarrival :1.201 minutes
+
+
+ customer no 694  and interarrival :5.331 minutes
+
+
+ customer no 695  and interarrival :0.574 minutes
+
+
+ customer no 696  and interarrival :0.443 minutes
+
+
+ customer no 697  and interarrival :0.327 minutes
+
+
+ customer no 698  and interarrival :0.653 minutes
+
+
+ customer no 699  and interarrival :2.186 minutes
+
+
+ customer no 700  and interarrival :0.016 minutes
+
+
+ customer no 701  and interarrival :2.129 minutes
+
+
+ customer no 702  and interarrival :0.298 minutes
+
+
+ customer no 703  and interarrival :0.860 minutes
+
+
+ customer no 704  and interarrival :0.972 minutes
+
+
+ customer no 705  and interarrival :0.307 minutes
+
+
+ customer no 706  and interarrival :0.996 minutes
+
+
+ customer no 707  and interarrival :0.850 minutes
+
+
+ customer no 708  and interarrival :0.636 minutes
+
+
+ customer no 709  and interarrival :0.593 minutes
+
+
+ customer no 710  and interarrival :1.658 minutes
+
+
+ customer no 711  and interarrival :0.199 minutes
+
+
+ customer no 712  and interarrival :0.870 minutes
+
+
+ customer no 713  and interarrival :1.853 minutes
+
+
+ customer no 714  and interarrival :3.153 minutes
+
+
+ customer no 715  and interarrival :0.387 minutes
+
+
+ customer no 716  and interarrival :1.203 minutes
+
+
+ customer no 717  and interarrival :0.006 minutes
+
+
+ customer no 718  and interarrival :0.745 minutes
+
+
+ customer no 719  and interarrival :4.300 minutes
+
+
+ customer no 720  and interarrival :0.043 minutes
+
+
+ customer no 721  and interarrival :0.446 minutes
+
+
+ customer no 722  and interarrival :0.206 minutes
+
+
+ customer no 723  and interarrival :0.026 minutes
+
+
+ customer no 724  and interarrival :2.773 minutes
+
+
+ customer no 725  and interarrival :0.035 minutes
+
+
+ customer no 726  and interarrival :0.556 minutes
+
+
+ customer no 727  and interarrival :0.279 minutes
+
+
+ customer no 728  and interarrival :0.379 minutes
+
+
+ customer no 729  and interarrival :1.115 minutes
+
+
+ customer no 730  and interarrival :0.924 minutes
+
+
+ customer no 731  and interarrival :0.856 minutes
+
+
+ customer no 732  and interarrival :1.293 minutes
+
+
+ customer no 732  and interarrival :0.146 minutes
+
+
+ customer no 733  and interarrival :0.173 minutes
+
+
+ customer no 733  and interarrival :0.026 minutes
+
+
+ customer no 733  and interarrival :0.587 minutes
+
+
+ customer no 733  and interarrival :1.684 minutes
+
+
+ customer no 738  and interarrival :0.471 minutes
+
+
+ customer no 739  and interarrival :0.172 minutes
+
+
+ customer no 740  and interarrival :2.693 minutes
+
+
+ customer no 741  and interarrival :2.160 minutes
+
+
+ customer no 742  and interarrival :0.713 minutes
+
+
+ customer no 743  and interarrival :0.804 minutes
+
+
+ customer no 744  and interarrival :0.446 minutes
+
+
+ customer no 745  and interarrival :0.160 minutes
+
+
+ customer no 745  and interarrival :1.580 minutes
+
+
+ customer no 747  and interarrival :0.894 minutes
+
+
+ customer no 748  and interarrival :0.272 minutes
+
+
+ customer no 749  and interarrival :0.110 minutes
+
+
+ customer no 749  and interarrival :0.153 minutes
+
+
+ customer no 750  and interarrival :0.781 minutes
+
+
+ customer no 752  and interarrival :0.272 minutes
+
+
+ customer no 753  and interarrival :1.717 minutes
+
+
+ customer no 754  and interarrival :1.104 minutes
+
+
+ customer no 755  and interarrival :0.192 minutes
+
+
+ customer no 756  and interarrival :0.884 minutes
+
+
+ customer no 757  and interarrival :0.713 minutes
+
+
+ customer no 758  and interarrival :0.262 minutes
+
+
+ customer no 758  and interarrival :0.715 minutes
+
+
+ customer no 760  and interarrival :2.483 minutes
+
+
+ customer no 761  and interarrival :0.697 minutes
+
+
+ customer no 762  and interarrival :0.149 minutes
+
+
+ customer no 763  and interarrival :0.866 minutes
+
+
+ customer no 764  and interarrival :0.105 minutes
+
+
+ customer no 765  and interarrival :1.499 minutes
+
+
+ customer no 766  and interarrival :0.974 minutes
+
+
+ customer no 767  and interarrival :2.205 minutes
+
+
+ customer no 768  and interarrival :0.733 minutes
+
+
+ customer no 769  and interarrival :0.565 minutes
+
+
+ customer no 770  and interarrival :0.157 minutes
+
+
+ customer no 770  and interarrival :0.864 minutes
+
+
+ customer no 771  and interarrival :0.007 minutes
+
+
+ customer no 771  and interarrival :3.072 minutes
+
+
+ customer no 774  and interarrival :0.608 minutes
+
+
+ customer no 775  and interarrival :0.570 minutes
+
+
+ customer no 776  and interarrival :6.725 minutes
+
+
+ customer no 777  and interarrival :3.025 minutes
+
+
+ customer no 778  and interarrival :0.375 minutes
+
+
+ customer no 779  and interarrival :2.116 minutes
+
+
+ customer no 780  and interarrival :1.311 minutes
+
+
+ customer no 781  and interarrival :0.926 minutes
+
+
+ customer no 781  and interarrival :0.014 minutes
+
+
+ customer no 781  and interarrival :0.574 minutes
+
+
+ customer no 781  and interarrival :1.737 minutes
+
+
+ customer no 782  and interarrival :0.718 minutes
+
+
+ customer no 786  and interarrival :5.160 minutes
+
+
+ customer no 787  and interarrival :0.361 minutes
+
+
+ customer no 788  and interarrival :1.279 minutes
+
+
+ customer no 788  and interarrival :1.546 minutes
+
+
+ customer no 790  and interarrival :1.153 minutes
+
+
+ customer no 791  and interarrival :1.166 minutes
+
+
+ customer no 792  and interarrival :0.880 minutes
+
+
+ customer no 793  and interarrival :0.896 minutes
+
+
+ customer no 794  and interarrival :0.253 minutes
+
+
+ customer no 794  and interarrival :0.008 minutes
+
+
+ customer no 794  and interarrival :0.834 minutes
+
+
+ customer no 797  and interarrival :0.624 minutes
+
+
+ customer no 798  and interarrival :1.575 minutes
+
+
+ customer no 799  and interarrival :0.446 minutes
+
+
+ customer no 800  and interarrival :1.697 minutes
+
+
+ customer no 801  and interarrival :1.957 minutes
+
+
+ customer no 802  and interarrival :1.435 minutes
+
+
+ customer no 803  and interarrival :0.520 minutes
+
+
+ customer no 804  and interarrival :1.160 minutes
+
+
+ customer no 805  and interarrival :0.572 minutes
+
+
+ customer no 806  and interarrival :1.323 minutes
+
+
+ customer no 807  and interarrival :1.030 minutes
+
+
+ customer no 808  and interarrival :0.747 minutes
+
+
+ customer no 809  and interarrival :0.035 minutes
+
+
+ customer no 810  and interarrival :1.326 minutes
+
+
+ customer no 810  and interarrival :0.552 minutes
+
+
+ customer no 810  and interarrival :1.653 minutes
+
+
+ customer no 813  and interarrival :0.569 minutes
+
+
+ customer no 813  and interarrival :1.947 minutes
+
+
+ customer no 815  and interarrival :0.920 minutes
+
+
+ customer no 816  and interarrival :2.911 minutes
+
+
+ customer no 817  and interarrival :5.627 minutes
+
+
+ customer no 818  and interarrival :0.432 minutes
+
+
+ customer no 819  and interarrival :0.091 minutes
+
+
+ customer no 820  and interarrival :3.384 minutes
+
+
+ customer no 821  and interarrival :0.392 minutes
+
+
+ customer no 822  and interarrival :0.193 minutes
+
+
+ customer no 823  and interarrival :0.397 minutes
+
+
+ customer no 824  and interarrival :0.219 minutes
+
+
+ customer no 825  and interarrival :1.602 minutes
+
+
+ customer no 826  and interarrival :0.253 minutes
+
+
+ customer no 827  and interarrival :3.965 minutes
+
+
+ customer no 828  and interarrival :0.820 minutes
+
+
+ customer no 829  and interarrival :0.965 minutes
+
+
+ customer no 830  and interarrival :0.484 minutes
+
+
+ customer no 831  and interarrival :0.468 minutes
+
+
+ customer no 832  and interarrival :3.393 minutes
+
+
+ customer no 833  and interarrival :1.262 minutes
+
+
+ customer no 834  and interarrival :1.468 minutes
+
+
+ customer no 835  and interarrival :0.338 minutes
+
+
+ customer no 836  and interarrival :3.511 minutes
+
+
+ customer no 837  and interarrival :1.092 minutes
+
+
+ customer no 838  and interarrival :0.738 minutes
+
+
+ customer no 839  and interarrival :0.606 minutes
+
+
+ customer no 840  and interarrival :2.342 minutes
+
+
+ customer no 841  and interarrival :0.594 minutes
+
+
+ customer no 842  and interarrival :0.230 minutes
+
+
+ customer no 842  and interarrival :1.362 minutes
+
+
+ customer no 844  and interarrival :0.206 minutes
+
+
+ customer no 845  and interarrival :1.300 minutes
+
+
+ customer no 846  and interarrival :0.474 minutes
+
+
+ customer no 847  and interarrival :2.730 minutes
+
+
+ customer no 848  and interarrival :0.256 minutes
+
+
+ customer no 849  and interarrival :3.148 minutes
+
+
+ customer no 850  and interarrival :0.997 minutes
+
+
+ customer no 851  and interarrival :0.092 minutes
+
+
+ customer no 851  and interarrival :0.850 minutes
+
+
+ customer no 853  and interarrival :0.657 minutes
+
+
+ customer no 854  and interarrival :0.180 minutes
+
+
+ customer no 855  and interarrival :0.889 minutes
+
+
+ customer no 856  and interarrival :0.043 minutes
+
+
+ customer no 856  and interarrival :0.155 minutes
+
+
+ customer no 856  and interarrival :0.659 minutes
+
+
+ customer no 857  and interarrival :1.216 minutes
+
+
+ customer no 857  and interarrival :1.749 minutes
+
+
+ customer no 860  and interarrival :2.422 minutes
+
+
+ customer no 862  and interarrival :0.368 minutes
+
+
+ customer no 863  and interarrival :0.149 minutes
+
+
+ customer no 863  and interarrival :0.538 minutes
+
+
+ customer no 864  and interarrival :1.386 minutes
+
+
+ customer no 866  and interarrival :0.513 minutes
+
+
+ customer no 867  and interarrival :0.230 minutes
+
+
+ customer no 868  and interarrival :0.358 minutes
+
+
+ customer no 869  and interarrival :0.800 minutes
+
+
+ customer no 869  and interarrival :1.197 minutes
+
+
+ customer no 871  and interarrival :0.074 minutes
+
+
+ customer no 871  and interarrival :0.080 minutes
+
+
+ customer no 871  and interarrival :5.921 minutes
+
+
+ customer no 874  and interarrival :0.473 minutes
+
+
+ customer no 875  and interarrival :0.142 minutes
+
+
+ customer no 876  and interarrival :1.381 minutes
+
+
+ customer no 877  and interarrival :0.339 minutes
+
+
+ customer no 878  and interarrival :0.627 minutes
+
+
+ customer no 879  and interarrival :0.262 minutes
+
+
+ customer no 880  and interarrival :1.317 minutes
+
+
+ customer no 881  and interarrival :2.851 minutes
+
+
+ customer no 882  and interarrival :0.512 minutes
+
+
+ customer no 883  and interarrival :0.246 minutes
+
+
+ customer no 883  and interarrival :0.752 minutes
+
+
+ customer no 885  and interarrival :0.435 minutes
+
+
+ customer no 886  and interarrival :0.177 minutes
+
+
+ customer no 887  and interarrival :1.165 minutes
+
+
+ customer no 888  and interarrival :1.622 minutes
+
+
+ customer no 889  and interarrival :3.801 minutes
+
+
+ customer no 890  and interarrival :0.499 minutes
+
+
+ customer no 891  and interarrival :0.950 minutes
+
+
+ customer no 892  and interarrival :0.111 minutes
+
+
+ customer no 892  and interarrival :6.526 minutes
+
+
+ customer no 894  and interarrival :0.731 minutes
+
+
+ customer no 895  and interarrival :0.498 minutes
+
+
+ customer no 896  and interarrival :1.038 minutes
+
+
+ customer no 897  and interarrival :0.055 minutes
+
+
+ customer no 897  and interarrival :2.946 minutes
+
+
+ customer no 899  and interarrival :0.803 minutes
+
+
+ customer no 900  and interarrival :1.610 minutes
+
+
+ customer no 901  and interarrival :1.477 minutes
+
+
+ customer no 902  and interarrival :0.958 minutes
+
+
+ customer no 903  and interarrival :0.097 minutes
+
+
+ customer no 904  and interarrival :0.783 minutes
+
+
+ customer no 905  and interarrival :0.977 minutes
+
+
+ customer no 906  and interarrival :0.053 minutes
+
+
+ customer no 907  and interarrival :0.263 minutes
+
+
+ customer no 907  and interarrival :1.628 minutes
+
+
+ customer no 909  and interarrival :0.061 minutes
+
+
+ customer no 910  and interarrival :0.845 minutes
+
+
+ customer no 911  and interarrival :0.041 minutes
+
+
+ customer no 911  and interarrival :0.521 minutes
+
+
+ customer no 912  and interarrival :3.021 minutes
+
+
+ customer no 914  and interarrival :2.037 minutes
+
+
+ customer no 915  and interarrival :0.240 minutes
+
+
+ customer no 916  and interarrival :6.180 minutes
+
+
+ customer no 917  and interarrival :0.803 minutes
+
+
+ customer no 918  and interarrival :1.168 minutes
+
+
+ customer no 919  and interarrival :3.637 minutes
+
+
+ customer no 920  and interarrival :0.719 minutes
+
+
+ customer no 921  and interarrival :0.058 minutes
+
+
+ customer no 922  and interarrival :0.172 minutes
+
+
+ customer no 922  and interarrival :0.062 minutes
+
+
+ customer no 922  and interarrival :1.941 minutes
+
+
+ customer no 925  and interarrival :0.654 minutes
+
+
+ customer no 926  and interarrival :3.638 minutes
+
+
+ customer no 927  and interarrival :2.036 minutes
+
+
+ customer no 928  and interarrival :0.478 minutes
+
+
+ customer no 929  and interarrival :0.148 minutes
+
+
+ customer no 930  and interarrival :1.319 minutes
+
+
+ customer no 931  and interarrival :0.319 minutes
+
+
+ customer no 932  and interarrival :0.203 minutes
+
+
+ customer no 933  and interarrival :0.686 minutes
+
+
+ customer no 934  and interarrival :0.614 minutes
+
+
+ customer no 935  and interarrival :3.959 minutes
+
+
+ customer no 936  and interarrival :0.126 minutes
+
+
+ customer no 937  and interarrival :0.051 minutes
+
+
+ customer no 938  and interarrival :0.161 minutes
+
+
+ customer no 938  and interarrival :2.954 minutes
+
+
+ customer no 940  and interarrival :0.909 minutes
+
+
+ customer no 941  and interarrival :0.901 minutes
+
+
+ customer no 942  and interarrival :2.217 minutes
+
+
+ customer no 943  and interarrival :1.047 minutes
+
+
+ customer no 944  and interarrival :2.612 minutes
+
+
+ customer no 945  and interarrival :0.296 minutes
+
+
+ customer no 946  and interarrival :1.960 minutes
+
+
+ customer no 947  and interarrival :0.105 minutes
+
+
+ customer no 948  and interarrival :2.324 minutes
+
+
+ customer no 949  and interarrival :0.546 minutes
+
+
+ customer no 950  and interarrival :0.288 minutes
+
+
+ customer no 950  and interarrival :0.306 minutes
+
+
+ customer no 952  and interarrival :0.763 minutes
+
+
+ customer no 953  and interarrival :0.514 minutes
+
+
+ customer no 954  and interarrival :3.400 minutes
+
+
+ customer no 955  and interarrival :0.732 minutes
+
+
+ customer no 956  and interarrival :0.862 minutes
+
+
+ customer no 957  and interarrival :0.694 minutes
+
+
+ customer no 958  and interarrival :0.933 minutes
+
+
+ customer no 959  and interarrival :1.472 minutes
+
+
+ customer no 960  and interarrival :0.373 minutes
+
+
+ customer no 961  and interarrival :1.622 minutes
+
+
+ customer no 962  and interarrival :0.069 minutes
+
+
+ customer no 963  and interarrival :0.418 minutes
+
+
+ customer no 963  and interarrival :1.820 minutes
+
+
+ customer no 964  and interarrival :4.900 minutes
+
+
+ customer no 966  and interarrival :1.725 minutes
+
+
+ customer no 967  and interarrival :0.764 minutes
+
+
+ customer no 968  and interarrival :0.114 minutes
+
+
+ customer no 969  and interarrival :0.076 minutes
+
+
+ customer no 969  and interarrival :1.357 minutes
+
+
+ customer no 970  and interarrival :0.115 minutes
+
+
+ customer no 971  and interarrival :0.074 minutes
+
+
+ customer no 971  and interarrival :0.902 minutes
+
+
+ customer no 973  and interarrival :0.001 minutes
+
+
+ customer no 973  and interarrival :0.884 minutes
+
+
+ customer no 976  and interarrival :0.347 minutes
+
+
+ customer no 976  and interarrival :0.145 minutes
+
+
+ customer no 976  and interarrival :0.544 minutes
+
+
+ customer no 978  and interarrival :0.074 minutes
+
+
+ customer no 978  and interarrival :1.084 minutes
+
+
+ customer no 980  and interarrival :0.399 minutes
+
+
+ customer no 980  and interarrival :0.681 minutes
+
+
+ customer no 980  and interarrival :1.146 minutes
+
+
+ customer no 980  and interarrival :0.360 minutes
+
+
+ customer no 981  and interarrival :3.145 minutes
+
+
+ customer no 986  and interarrival :1.982 minutes
+
+
+ customer no 987  and interarrival :4.981 minutes
+
+
+ customer no 988  and interarrival :0.345 minutes
+
+
+ customer no 989  and interarrival :0.757 minutes
+
+
+ customer no 990  and interarrival :0.348 minutes
+
+
+ customer no 991  and interarrival :0.263 minutes
+
+
+ customer no 992  and interarrival :1.184 minutes
+
+
+ customer no 993  and interarrival :0.514 minutes
+
+
+ customer no 994  and interarrival :0.265 minutes
+
+
+ customer no 995  and interarrival :0.250 minutes
+
+
+ customer no 996  and interarrival :0.288 minutes
+
+
+ customer no 996  and interarrival :0.348 minutes
+
+
+ customer no 996  and interarrival :0.517 minutes
+
+
+ customer no 997  and interarrival :2.090 minutes
+
+
+ customer no 1000  and interarrival :1.129 minutes
+
+

@@ -1,0 +1,3001 @@
+
+ customer no 1  and service time :0.904 minutes
+
+
+ customer no 2  and service time :0.313 minutes
+
+
+ customer no 3  and service time :1.935 minutes
+
+
+ customer no 4  and service time :0.542 minutes
+
+
+ customer no 5  and service time :0.393 minutes
+
+
+ customer no 6  and service time :0.128 minutes
+
+
+ customer no 7  and service time :0.324 minutes
+
+
+ customer no 8  and service time :0.899 minutes
+
+
+ customer no 9  and service time :0.058 minutes
+
+
+ customer no 10  and service time :1.601 minutes
+
+
+ customer no 11  and service time :0.258 minutes
+
+
+ customer no 12  and service time :0.161 minutes
+
+
+ customer no 13  and service time :0.065 minutes
+
+
+ customer no 14  and service time :0.075 minutes
+
+
+ customer no 15  and service time :0.071 minutes
+
+
+ customer no 16  and service time :0.912 minutes
+
+
+ customer no 17  and service time :0.055 minutes
+
+
+ customer no 18  and service time :0.150 minutes
+
+
+ customer no 19  and service time :0.003 minutes
+
+
+ customer no 20  and service time :0.073 minutes
+
+
+ customer no 21  and service time :0.095 minutes
+
+
+ customer no 22  and service time :0.759 minutes
+
+
+ customer no 23  and service time :0.052 minutes
+
+
+ customer no 24  and service time :0.211 minutes
+
+
+ customer no 25  and service time :0.088 minutes
+
+
+ customer no 26  and service time :1.159 minutes
+
+
+ customer no 27  and service time :0.645 minutes
+
+
+ customer no 28  and service time :2.268 minutes
+
+
+ customer no 29  and service time :0.761 minutes
+
+
+ customer no 30  and service time :0.604 minutes
+
+
+ customer no 31  and service time :0.473 minutes
+
+
+ customer no 32  and service time :0.058 minutes
+
+
+ customer no 33  and service time :0.171 minutes
+
+
+ customer no 34  and service time :0.112 minutes
+
+
+ customer no 35  and service time :0.191 minutes
+
+
+ customer no 36  and service time :0.255 minutes
+
+
+ customer no 37  and service time :1.126 minutes
+
+
+ customer no 38  and service time :0.634 minutes
+
+
+ customer no 39  and service time :1.208 minutes
+
+
+ customer no 40  and service time :0.737 minutes
+
+
+ customer no 41  and service time :0.177 minutes
+
+
+ customer no 42  and service time :0.416 minutes
+
+
+ customer no 43  and service time :1.239 minutes
+
+
+ customer no 44  and service time :0.170 minutes
+
+
+ customer no 45  and service time :0.170 minutes
+
+
+ customer no 46  and service time :1.318 minutes
+
+
+ customer no 47  and service time :0.273 minutes
+
+
+ customer no 48  and service time :0.530 minutes
+
+
+ customer no 49  and service time :0.476 minutes
+
+
+ customer no 50  and service time :0.890 minutes
+
+
+ customer no 51  and service time :0.242 minutes
+
+
+ customer no 52  and service time :0.769 minutes
+
+
+ customer no 53  and service time :0.027 minutes
+
+
+ customer no 54  and service time :0.075 minutes
+
+
+ customer no 55  and service time :0.300 minutes
+
+
+ customer no 56  and service time :0.710 minutes
+
+
+ customer no 57  and service time :0.169 minutes
+
+
+ customer no 58  and service time :0.435 minutes
+
+
+ customer no 59  and service time :0.016 minutes
+
+
+ customer no 60  and service time :0.551 minutes
+
+
+ customer no 61  and service time :0.120 minutes
+
+
+ customer no 62  and service time :0.012 minutes
+
+
+ customer no 63  and service time :0.969 minutes
+
+
+ customer no 64  and service time :0.380 minutes
+
+
+ customer no 65  and service time :0.490 minutes
+
+
+ customer no 66  and service time :0.354 minutes
+
+
+ customer no 67  and service time :0.058 minutes
+
+
+ customer no 68  and service time :1.437 minutes
+
+
+ customer no 69  and service time :0.385 minutes
+
+
+ customer no 70  and service time :1.096 minutes
+
+
+ customer no 71  and service time :0.639 minutes
+
+
+ customer no 72  and service time :0.661 minutes
+
+
+ customer no 73  and service time :0.038 minutes
+
+
+ customer no 74  and service time :0.669 minutes
+
+
+ customer no 75  and service time :0.129 minutes
+
+
+ customer no 76  and service time :0.559 minutes
+
+
+ customer no 77  and service time :0.027 minutes
+
+
+ customer no 78  and service time :0.090 minutes
+
+
+ customer no 79  and service time :0.589 minutes
+
+
+ customer no 80  and service time :0.042 minutes
+
+
+ customer no 81  and service time :0.637 minutes
+
+
+ customer no 82  and service time :0.114 minutes
+
+
+ customer no 83  and service time :0.395 minutes
+
+
+ customer no 84  and service time :0.207 minutes
+
+
+ customer no 85  and service time :0.878 minutes
+
+
+ customer no 86  and service time :0.083 minutes
+
+
+ customer no 87  and service time :1.124 minutes
+
+
+ customer no 88  and service time :0.042 minutes
+
+
+ customer no 89  and service time :3.608 minutes
+
+
+ customer no 90  and service time :0.302 minutes
+
+
+ customer no 91  and service time :0.491 minutes
+
+
+ customer no 92  and service time :0.429 minutes
+
+
+ customer no 93  and service time :0.056 minutes
+
+
+ customer no 94  and service time :0.820 minutes
+
+
+ customer no 95  and service time :0.252 minutes
+
+
+ customer no 96  and service time :0.400 minutes
+
+
+ customer no 97  and service time :0.033 minutes
+
+
+ customer no 98  and service time :0.678 minutes
+
+
+ customer no 99  and service time :0.189 minutes
+
+
+ customer no 100  and service time :0.322 minutes
+
+
+ customer no 101  and service time :0.178 minutes
+
+
+ customer no 102  and service time :0.033 minutes
+
+
+ customer no 103  and service time :1.141 minutes
+
+
+ customer no 104  and service time :1.543 minutes
+
+
+ customer no 105  and service time :0.151 minutes
+
+
+ customer no 106  and service time :0.073 minutes
+
+
+ customer no 107  and service time :0.486 minutes
+
+
+ customer no 108  and service time :0.402 minutes
+
+
+ customer no 109  and service time :0.204 minutes
+
+
+ customer no 110  and service time :0.123 minutes
+
+
+ customer no 111  and service time :0.081 minutes
+
+
+ customer no 112  and service time :0.969 minutes
+
+
+ customer no 113  and service time :0.747 minutes
+
+
+ customer no 114  and service time :0.011 minutes
+
+
+ customer no 115  and service time :0.028 minutes
+
+
+ customer no 116  and service time :1.095 minutes
+
+
+ customer no 117  and service time :0.968 minutes
+
+
+ customer no 118  and service time :0.886 minutes
+
+
+ customer no 119  and service time :0.464 minutes
+
+
+ customer no 120  and service time :0.379 minutes
+
+
+ customer no 121  and service time :0.111 minutes
+
+
+ customer no 122  and service time :1.135 minutes
+
+
+ customer no 123  and service time :1.558 minutes
+
+
+ customer no 124  and service time :1.359 minutes
+
+
+ customer no 125  and service time :0.436 minutes
+
+
+ customer no 126  and service time :0.584 minutes
+
+
+ customer no 127  and service time :0.104 minutes
+
+
+ customer no 128  and service time :0.209 minutes
+
+
+ customer no 129  and service time :0.302 minutes
+
+
+ customer no 130  and service time :0.591 minutes
+
+
+ customer no 131  and service time :0.184 minutes
+
+
+ customer no 132  and service time :0.332 minutes
+
+
+ customer no 133  and service time :0.623 minutes
+
+
+ customer no 134  and service time :0.187 minutes
+
+
+ customer no 135  and service time :1.596 minutes
+
+
+ customer no 136  and service time :0.159 minutes
+
+
+ customer no 137  and service time :0.503 minutes
+
+
+ customer no 138  and service time :2.997 minutes
+
+
+ customer no 139  and service time :0.372 minutes
+
+
+ customer no 140  and service time :0.195 minutes
+
+
+ customer no 141  and service time :0.627 minutes
+
+
+ customer no 142  and service time :0.334 minutes
+
+
+ customer no 143  and service time :0.217 minutes
+
+
+ customer no 144  and service time :0.434 minutes
+
+
+ customer no 145  and service time :0.014 minutes
+
+
+ customer no 146  and service time :0.800 minutes
+
+
+ customer no 147  and service time :0.634 minutes
+
+
+ customer no 148  and service time :0.119 minutes
+
+
+ customer no 149  and service time :0.397 minutes
+
+
+ customer no 150  and service time :0.222 minutes
+
+
+ customer no 151  and service time :0.958 minutes
+
+
+ customer no 152  and service time :0.152 minutes
+
+
+ customer no 153  and service time :0.129 minutes
+
+
+ customer no 154  and service time :0.261 minutes
+
+
+ customer no 155  and service time :1.504 minutes
+
+
+ customer no 156  and service time :0.136 minutes
+
+
+ customer no 157  and service time :0.406 minutes
+
+
+ customer no 158  and service time :0.409 minutes
+
+
+ customer no 159  and service time :0.140 minutes
+
+
+ customer no 160  and service time :1.249 minutes
+
+
+ customer no 161  and service time :0.219 minutes
+
+
+ customer no 162  and service time :0.094 minutes
+
+
+ customer no 163  and service time :1.662 minutes
+
+
+ customer no 164  and service time :0.920 minutes
+
+
+ customer no 165  and service time :1.033 minutes
+
+
+ customer no 166  and service time :0.104 minutes
+
+
+ customer no 167  and service time :0.707 minutes
+
+
+ customer no 168  and service time :0.401 minutes
+
+
+ customer no 169  and service time :1.059 minutes
+
+
+ customer no 170  and service time :0.330 minutes
+
+
+ customer no 171  and service time :1.114 minutes
+
+
+ customer no 172  and service time :0.469 minutes
+
+
+ customer no 173  and service time :0.372 minutes
+
+
+ customer no 174  and service time :2.489 minutes
+
+
+ customer no 175  and service time :0.198 minutes
+
+
+ customer no 176  and service time :0.753 minutes
+
+
+ customer no 177  and service time :0.410 minutes
+
+
+ customer no 178  and service time :0.562 minutes
+
+
+ customer no 179  and service time :2.799 minutes
+
+
+ customer no 180  and service time :0.225 minutes
+
+
+ customer no 181  and service time :0.840 minutes
+
+
+ customer no 182  and service time :0.087 minutes
+
+
+ customer no 183  and service time :0.050 minutes
+
+
+ customer no 184  and service time :1.513 minutes
+
+
+ customer no 185  and service time :1.724 minutes
+
+
+ customer no 186  and service time :0.061 minutes
+
+
+ customer no 187  and service time :0.422 minutes
+
+
+ customer no 188  and service time :1.397 minutes
+
+
+ customer no 189  and service time :0.125 minutes
+
+
+ customer no 190  and service time :0.043 minutes
+
+
+ customer no 191  and service time :0.497 minutes
+
+
+ customer no 192  and service time :0.623 minutes
+
+
+ customer no 193  and service time :0.076 minutes
+
+
+ customer no 194  and service time :0.467 minutes
+
+
+ customer no 195  and service time :0.708 minutes
+
+
+ customer no 196  and service time :0.016 minutes
+
+
+ customer no 197  and service time :0.133 minutes
+
+
+ customer no 198  and service time :0.046 minutes
+
+
+ customer no 199  and service time :0.238 minutes
+
+
+ customer no 200  and service time :0.301 minutes
+
+
+ customer no 201  and service time :0.858 minutes
+
+
+ customer no 202  and service time :0.368 minutes
+
+
+ customer no 203  and service time :0.178 minutes
+
+
+ customer no 204  and service time :0.570 minutes
+
+
+ customer no 205  and service time :1.446 minutes
+
+
+ customer no 206  and service time :0.378 minutes
+
+
+ customer no 207  and service time :0.981 minutes
+
+
+ customer no 208  and service time :0.109 minutes
+
+
+ customer no 209  and service time :0.830 minutes
+
+
+ customer no 210  and service time :0.718 minutes
+
+
+ customer no 211  and service time :1.189 minutes
+
+
+ customer no 212  and service time :0.089 minutes
+
+
+ customer no 213  and service time :0.049 minutes
+
+
+ customer no 214  and service time :0.088 minutes
+
+
+ customer no 215  and service time :0.038 minutes
+
+
+ customer no 216  and service time :0.257 minutes
+
+
+ customer no 217  and service time :1.348 minutes
+
+
+ customer no 218  and service time :0.482 minutes
+
+
+ customer no 219  and service time :1.397 minutes
+
+
+ customer no 220  and service time :0.224 minutes
+
+
+ customer no 221  and service time :0.166 minutes
+
+
+ customer no 222  and service time :2.494 minutes
+
+
+ customer no 223  and service time :0.099 minutes
+
+
+ customer no 224  and service time :0.135 minutes
+
+
+ customer no 225  and service time :0.048 minutes
+
+
+ customer no 226  and service time :0.516 minutes
+
+
+ customer no 227  and service time :0.964 minutes
+
+
+ customer no 228  and service time :0.304 minutes
+
+
+ customer no 229  and service time :0.336 minutes
+
+
+ customer no 230  and service time :1.183 minutes
+
+
+ customer no 231  and service time :0.137 minutes
+
+
+ customer no 232  and service time :0.281 minutes
+
+
+ customer no 233  and service time :1.444 minutes
+
+
+ customer no 234  and service time :0.746 minutes
+
+
+ customer no 235  and service time :0.020 minutes
+
+
+ customer no 236  and service time :0.097 minutes
+
+
+ customer no 237  and service time :0.049 minutes
+
+
+ customer no 238  and service time :0.326 minutes
+
+
+ customer no 239  and service time :0.442 minutes
+
+
+ customer no 240  and service time :0.250 minutes
+
+
+ customer no 241  and service time :0.556 minutes
+
+
+ customer no 242  and service time :0.351 minutes
+
+
+ customer no 243  and service time :0.054 minutes
+
+
+ customer no 244  and service time :0.021 minutes
+
+
+ customer no 245  and service time :0.738 minutes
+
+
+ customer no 246  and service time :0.019 minutes
+
+
+ customer no 247  and service time :1.166 minutes
+
+
+ customer no 248  and service time :0.222 minutes
+
+
+ customer no 249  and service time :0.046 minutes
+
+
+ customer no 250  and service time :1.651 minutes
+
+
+ customer no 251  and service time :0.117 minutes
+
+
+ customer no 252  and service time :0.203 minutes
+
+
+ customer no 253  and service time :0.317 minutes
+
+
+ customer no 254  and service time :0.180 minutes
+
+
+ customer no 255  and service time :1.247 minutes
+
+
+ customer no 256  and service time :1.534 minutes
+
+
+ customer no 257  and service time :0.659 minutes
+
+
+ customer no 258  and service time :0.117 minutes
+
+
+ customer no 259  and service time :0.147 minutes
+
+
+ customer no 260  and service time :0.195 minutes
+
+
+ customer no 261  and service time :1.042 minutes
+
+
+ customer no 262  and service time :0.424 minutes
+
+
+ customer no 263  and service time :0.100 minutes
+
+
+ customer no 264  and service time :0.305 minutes
+
+
+ customer no 265  and service time :0.007 minutes
+
+
+ customer no 266  and service time :0.227 minutes
+
+
+ customer no 267  and service time :0.119 minutes
+
+
+ customer no 268  and service time :0.425 minutes
+
+
+ customer no 269  and service time :0.065 minutes
+
+
+ customer no 270  and service time :1.592 minutes
+
+
+ customer no 271  and service time :0.050 minutes
+
+
+ customer no 272  and service time :0.211 minutes
+
+
+ customer no 273  and service time :0.433 minutes
+
+
+ customer no 274  and service time :0.604 minutes
+
+
+ customer no 275  and service time :0.296 minutes
+
+
+ customer no 276  and service time :0.305 minutes
+
+
+ customer no 277  and service time :0.963 minutes
+
+
+ customer no 278  and service time :0.087 minutes
+
+
+ customer no 279  and service time :0.092 minutes
+
+
+ customer no 280  and service time :1.483 minutes
+
+
+ customer no 281  and service time :0.181 minutes
+
+
+ customer no 282  and service time :0.324 minutes
+
+
+ customer no 283  and service time :0.141 minutes
+
+
+ customer no 284  and service time :0.189 minutes
+
+
+ customer no 285  and service time :0.367 minutes
+
+
+ customer no 286  and service time :0.160 minutes
+
+
+ customer no 287  and service time :0.005 minutes
+
+
+ customer no 288  and service time :0.475 minutes
+
+
+ customer no 289  and service time :0.589 minutes
+
+
+ customer no 290  and service time :0.640 minutes
+
+
+ customer no 291  and service time :0.527 minutes
+
+
+ customer no 292  and service time :0.448 minutes
+
+
+ customer no 293  and service time :0.090 minutes
+
+
+ customer no 294  and service time :0.091 minutes
+
+
+ customer no 295  and service time :0.405 minutes
+
+
+ customer no 296  and service time :0.467 minutes
+
+
+ customer no 297  and service time :0.083 minutes
+
+
+ customer no 298  and service time :0.307 minutes
+
+
+ customer no 299  and service time :0.865 minutes
+
+
+ customer no 300  and service time :0.891 minutes
+
+
+ customer no 301  and service time :0.188 minutes
+
+
+ customer no 302  and service time :0.995 minutes
+
+
+ customer no 303  and service time :0.012 minutes
+
+
+ customer no 304  and service time :0.359 minutes
+
+
+ customer no 305  and service time :0.473 minutes
+
+
+ customer no 306  and service time :0.102 minutes
+
+
+ customer no 307  and service time :1.184 minutes
+
+
+ customer no 308  and service time :0.970 minutes
+
+
+ customer no 309  and service time :0.602 minutes
+
+
+ customer no 310  and service time :0.352 minutes
+
+
+ customer no 311  and service time :0.008 minutes
+
+
+ customer no 312  and service time :0.451 minutes
+
+
+ customer no 313  and service time :0.667 minutes
+
+
+ customer no 314  and service time :0.534 minutes
+
+
+ customer no 315  and service time :1.147 minutes
+
+
+ customer no 316  and service time :0.013 minutes
+
+
+ customer no 317  and service time :0.224 minutes
+
+
+ customer no 318  and service time :0.201 minutes
+
+
+ customer no 319  and service time :0.475 minutes
+
+
+ customer no 320  and service time :1.308 minutes
+
+
+ customer no 321  and service time :0.155 minutes
+
+
+ customer no 322  and service time :0.305 minutes
+
+
+ customer no 323  and service time :2.234 minutes
+
+
+ customer no 324  and service time :0.050 minutes
+
+
+ customer no 325  and service time :0.428 minutes
+
+
+ customer no 326  and service time :0.121 minutes
+
+
+ customer no 327  and service time :0.199 minutes
+
+
+ customer no 328  and service time :0.530 minutes
+
+
+ customer no 329  and service time :1.500 minutes
+
+
+ customer no 330  and service time :1.004 minutes
+
+
+ customer no 331  and service time :1.026 minutes
+
+
+ customer no 332  and service time :0.108 minutes
+
+
+ customer no 333  and service time :0.092 minutes
+
+
+ customer no 334  and service time :0.134 minutes
+
+
+ customer no 335  and service time :0.039 minutes
+
+
+ customer no 336  and service time :0.001 minutes
+
+
+ customer no 337  and service time :0.431 minutes
+
+
+ customer no 338  and service time :0.200 minutes
+
+
+ customer no 339  and service time :0.407 minutes
+
+
+ customer no 340  and service time :0.223 minutes
+
+
+ customer no 341  and service time :0.542 minutes
+
+
+ customer no 342  and service time :0.694 minutes
+
+
+ customer no 343  and service time :0.147 minutes
+
+
+ customer no 344  and service time :0.167 minutes
+
+
+ customer no 345  and service time :0.503 minutes
+
+
+ customer no 346  and service time :0.219 minutes
+
+
+ customer no 347  and service time :0.079 minutes
+
+
+ customer no 348  and service time :0.111 minutes
+
+
+ customer no 349  and service time :0.784 minutes
+
+
+ customer no 350  and service time :0.763 minutes
+
+
+ customer no 351  and service time :0.439 minutes
+
+
+ customer no 352  and service time :0.804 minutes
+
+
+ customer no 353  and service time :0.024 minutes
+
+
+ customer no 354  and service time :0.228 minutes
+
+
+ customer no 355  and service time :0.049 minutes
+
+
+ customer no 356  and service time :0.074 minutes
+
+
+ customer no 357  and service time :1.015 minutes
+
+
+ customer no 358  and service time :0.293 minutes
+
+
+ customer no 359  and service time :0.490 minutes
+
+
+ customer no 360  and service time :0.087 minutes
+
+
+ customer no 361  and service time :0.393 minutes
+
+
+ customer no 362  and service time :0.500 minutes
+
+
+ customer no 363  and service time :0.299 minutes
+
+
+ customer no 364  and service time :0.727 minutes
+
+
+ customer no 365  and service time :0.350 minutes
+
+
+ customer no 366  and service time :0.177 minutes
+
+
+ customer no 367  and service time :0.172 minutes
+
+
+ customer no 368  and service time :0.023 minutes
+
+
+ customer no 369  and service time :0.060 minutes
+
+
+ customer no 370  and service time :0.081 minutes
+
+
+ customer no 371  and service time :0.446 minutes
+
+
+ customer no 372  and service time :0.215 minutes
+
+
+ customer no 373  and service time :0.100 minutes
+
+
+ customer no 374  and service time :0.041 minutes
+
+
+ customer no 375  and service time :0.288 minutes
+
+
+ customer no 376  and service time :0.199 minutes
+
+
+ customer no 377  and service time :0.038 minutes
+
+
+ customer no 378  and service time :1.620 minutes
+
+
+ customer no 379  and service time :1.178 minutes
+
+
+ customer no 380  and service time :0.273 minutes
+
+
+ customer no 381  and service time :0.029 minutes
+
+
+ customer no 382  and service time :0.543 minutes
+
+
+ customer no 383  and service time :0.583 minutes
+
+
+ customer no 384  and service time :0.062 minutes
+
+
+ customer no 385  and service time :0.034 minutes
+
+
+ customer no 386  and service time :2.842 minutes
+
+
+ customer no 387  and service time :0.403 minutes
+
+
+ customer no 388  and service time :0.044 minutes
+
+
+ customer no 389  and service time :0.392 minutes
+
+
+ customer no 390  and service time :0.351 minutes
+
+
+ customer no 391  and service time :0.641 minutes
+
+
+ customer no 392  and service time :0.502 minutes
+
+
+ customer no 393  and service time :0.157 minutes
+
+
+ customer no 394  and service time :0.899 minutes
+
+
+ customer no 395  and service time :0.285 minutes
+
+
+ customer no 396  and service time :0.060 minutes
+
+
+ customer no 397  and service time :0.394 minutes
+
+
+ customer no 398  and service time :0.031 minutes
+
+
+ customer no 399  and service time :1.562 minutes
+
+
+ customer no 400  and service time :0.605 minutes
+
+
+ customer no 401  and service time :0.751 minutes
+
+
+ customer no 402  and service time :0.001 minutes
+
+
+ customer no 403  and service time :0.037 minutes
+
+
+ customer no 404  and service time :0.289 minutes
+
+
+ customer no 405  and service time :0.171 minutes
+
+
+ customer no 406  and service time :0.209 minutes
+
+
+ customer no 407  and service time :1.684 minutes
+
+
+ customer no 408  and service time :0.638 minutes
+
+
+ customer no 409  and service time :0.196 minutes
+
+
+ customer no 410  and service time :2.131 minutes
+
+
+ customer no 411  and service time :0.099 minutes
+
+
+ customer no 412  and service time :0.529 minutes
+
+
+ customer no 413  and service time :0.172 minutes
+
+
+ customer no 414  and service time :0.059 minutes
+
+
+ customer no 415  and service time :0.378 minutes
+
+
+ customer no 416  and service time :0.499 minutes
+
+
+ customer no 417  and service time :0.379 minutes
+
+
+ customer no 418  and service time :1.415 minutes
+
+
+ customer no 419  and service time :2.247 minutes
+
+
+ customer no 420  and service time :0.170 minutes
+
+
+ customer no 421  and service time :0.269 minutes
+
+
+ customer no 422  and service time :0.301 minutes
+
+
+ customer no 423  and service time :0.826 minutes
+
+
+ customer no 424  and service time :1.010 minutes
+
+
+ customer no 425  and service time :0.006 minutes
+
+
+ customer no 426  and service time :0.092 minutes
+
+
+ customer no 427  and service time :0.431 minutes
+
+
+ customer no 428  and service time :0.973 minutes
+
+
+ customer no 429  and service time :0.011 minutes
+
+
+ customer no 430  and service time :1.153 minutes
+
+
+ customer no 431  and service time :0.783 minutes
+
+
+ customer no 432  and service time :1.141 minutes
+
+
+ customer no 433  and service time :0.075 minutes
+
+
+ customer no 434  and service time :0.042 minutes
+
+
+ customer no 435  and service time :0.603 minutes
+
+
+ customer no 436  and service time :0.123 minutes
+
+
+ customer no 437  and service time :0.546 minutes
+
+
+ customer no 438  and service time :0.044 minutes
+
+
+ customer no 439  and service time :0.098 minutes
+
+
+ customer no 440  and service time :0.660 minutes
+
+
+ customer no 441  and service time :1.456 minutes
+
+
+ customer no 442  and service time :0.546 minutes
+
+
+ customer no 443  and service time :1.169 minutes
+
+
+ customer no 444  and service time :0.053 minutes
+
+
+ customer no 445  and service time :0.207 minutes
+
+
+ customer no 446  and service time :0.251 minutes
+
+
+ customer no 447  and service time :1.754 minutes
+
+
+ customer no 448  and service time :0.927 minutes
+
+
+ customer no 449  and service time :0.082 minutes
+
+
+ customer no 450  and service time :0.691 minutes
+
+
+ customer no 451  and service time :0.611 minutes
+
+
+ customer no 452  and service time :0.003 minutes
+
+
+ customer no 453  and service time :0.680 minutes
+
+
+ customer no 454  and service time :0.119 minutes
+
+
+ customer no 455  and service time :0.184 minutes
+
+
+ customer no 456  and service time :0.000 minutes
+
+
+ customer no 457  and service time :0.750 minutes
+
+
+ customer no 458  and service time :0.228 minutes
+
+
+ customer no 459  and service time :0.466 minutes
+
+
+ customer no 460  and service time :0.308 minutes
+
+
+ customer no 461  and service time :0.142 minutes
+
+
+ customer no 462  and service time :0.088 minutes
+
+
+ customer no 463  and service time :0.013 minutes
+
+
+ customer no 464  and service time :0.382 minutes
+
+
+ customer no 465  and service time :1.055 minutes
+
+
+ customer no 466  and service time :0.021 minutes
+
+
+ customer no 467  and service time :0.427 minutes
+
+
+ customer no 468  and service time :0.383 minutes
+
+
+ customer no 469  and service time :0.801 minutes
+
+
+ customer no 470  and service time :1.267 minutes
+
+
+ customer no 471  and service time :0.019 minutes
+
+
+ customer no 472  and service time :1.047 minutes
+
+
+ customer no 473  and service time :0.171 minutes
+
+
+ customer no 474  and service time :0.363 minutes
+
+
+ customer no 475  and service time :0.003 minutes
+
+
+ customer no 476  and service time :0.080 minutes
+
+
+ customer no 477  and service time :0.001 minutes
+
+
+ customer no 478  and service time :0.036 minutes
+
+
+ customer no 479  and service time :1.113 minutes
+
+
+ customer no 480  and service time :0.183 minutes
+
+
+ customer no 481  and service time :2.657 minutes
+
+
+ customer no 482  and service time :0.127 minutes
+
+
+ customer no 483  and service time :1.866 minutes
+
+
+ customer no 484  and service time :0.327 minutes
+
+
+ customer no 485  and service time :0.037 minutes
+
+
+ customer no 486  and service time :0.310 minutes
+
+
+ customer no 487  and service time :0.090 minutes
+
+
+ customer no 488  and service time :0.884 minutes
+
+
+ customer no 489  and service time :0.182 minutes
+
+
+ customer no 490  and service time :0.636 minutes
+
+
+ customer no 491  and service time :0.186 minutes
+
+
+ customer no 492  and service time :0.951 minutes
+
+
+ customer no 493  and service time :0.158 minutes
+
+
+ customer no 494  and service time :0.691 minutes
+
+
+ customer no 495  and service time :0.335 minutes
+
+
+ customer no 496  and service time :0.039 minutes
+
+
+ customer no 497  and service time :1.050 minutes
+
+
+ customer no 498  and service time :0.830 minutes
+
+
+ customer no 499  and service time :0.471 minutes
+
+
+ customer no 500  and service time :0.258 minutes
+
+
+ customer no 501  and service time :0.058 minutes
+
+
+ customer no 502  and service time :0.986 minutes
+
+
+ customer no 503  and service time :0.298 minutes
+
+
+ customer no 504  and service time :0.381 minutes
+
+
+ customer no 505  and service time :0.042 minutes
+
+
+ customer no 506  and service time :0.127 minutes
+
+
+ customer no 507  and service time :0.432 minutes
+
+
+ customer no 508  and service time :0.440 minutes
+
+
+ customer no 509  and service time :0.556 minutes
+
+
+ customer no 510  and service time :0.791 minutes
+
+
+ customer no 511  and service time :0.312 minutes
+
+
+ customer no 512  and service time :0.230 minutes
+
+
+ customer no 513  and service time :0.614 minutes
+
+
+ customer no 514  and service time :0.358 minutes
+
+
+ customer no 515  and service time :0.088 minutes
+
+
+ customer no 516  and service time :0.446 minutes
+
+
+ customer no 517  and service time :1.297 minutes
+
+
+ customer no 518  and service time :0.044 minutes
+
+
+ customer no 519  and service time :1.007 minutes
+
+
+ customer no 520  and service time :0.797 minutes
+
+
+ customer no 521  and service time :1.217 minutes
+
+
+ customer no 522  and service time :0.792 minutes
+
+
+ customer no 523  and service time :0.511 minutes
+
+
+ customer no 524  and service time :0.074 minutes
+
+
+ customer no 525  and service time :0.973 minutes
+
+
+ customer no 526  and service time :0.640 minutes
+
+
+ customer no 527  and service time :0.614 minutes
+
+
+ customer no 528  and service time :0.079 minutes
+
+
+ customer no 529  and service time :0.188 minutes
+
+
+ customer no 530  and service time :0.089 minutes
+
+
+ customer no 531  and service time :1.843 minutes
+
+
+ customer no 532  and service time :0.475 minutes
+
+
+ customer no 533  and service time :0.005 minutes
+
+
+ customer no 534  and service time :0.332 minutes
+
+
+ customer no 535  and service time :0.208 minutes
+
+
+ customer no 536  and service time :0.851 minutes
+
+
+ customer no 537  and service time :1.147 minutes
+
+
+ customer no 538  and service time :0.057 minutes
+
+
+ customer no 539  and service time :1.075 minutes
+
+
+ customer no 540  and service time :0.395 minutes
+
+
+ customer no 541  and service time :0.299 minutes
+
+
+ customer no 542  and service time :0.566 minutes
+
+
+ customer no 543  and service time :0.453 minutes
+
+
+ customer no 544  and service time :0.202 minutes
+
+
+ customer no 545  and service time :0.737 minutes
+
+
+ customer no 546  and service time :0.206 minutes
+
+
+ customer no 547  and service time :0.709 minutes
+
+
+ customer no 548  and service time :0.143 minutes
+
+
+ customer no 549  and service time :0.503 minutes
+
+
+ customer no 550  and service time :0.686 minutes
+
+
+ customer no 551  and service time :0.689 minutes
+
+
+ customer no 552  and service time :0.013 minutes
+
+
+ customer no 553  and service time :0.384 minutes
+
+
+ customer no 554  and service time :0.035 minutes
+
+
+ customer no 555  and service time :0.112 minutes
+
+
+ customer no 556  and service time :0.226 minutes
+
+
+ customer no 557  and service time :0.591 minutes
+
+
+ customer no 558  and service time :1.094 minutes
+
+
+ customer no 559  and service time :3.594 minutes
+
+
+ customer no 560  and service time :0.212 minutes
+
+
+ customer no 561  and service time :0.234 minutes
+
+
+ customer no 562  and service time :0.359 minutes
+
+
+ customer no 563  and service time :0.373 minutes
+
+
+ customer no 564  and service time :0.062 minutes
+
+
+ customer no 565  and service time :0.227 minutes
+
+
+ customer no 566  and service time :0.628 minutes
+
+
+ customer no 567  and service time :0.892 minutes
+
+
+ customer no 568  and service time :0.206 minutes
+
+
+ customer no 569  and service time :0.486 minutes
+
+
+ customer no 570  and service time :0.207 minutes
+
+
+ customer no 571  and service time :0.025 minutes
+
+
+ customer no 572  and service time :0.129 minutes
+
+
+ customer no 573  and service time :0.996 minutes
+
+
+ customer no 574  and service time :1.028 minutes
+
+
+ customer no 575  and service time :0.017 minutes
+
+
+ customer no 576  and service time :0.026 minutes
+
+
+ customer no 577  and service time :0.469 minutes
+
+
+ customer no 578  and service time :0.458 minutes
+
+
+ customer no 579  and service time :2.014 minutes
+
+
+ customer no 580  and service time :0.233 minutes
+
+
+ customer no 581  and service time :0.449 minutes
+
+
+ customer no 582  and service time :0.458 minutes
+
+
+ customer no 583  and service time :0.056 minutes
+
+
+ customer no 584  and service time :0.040 minutes
+
+
+ customer no 585  and service time :0.167 minutes
+
+
+ customer no 586  and service time :1.148 minutes
+
+
+ customer no 587  and service time :0.207 minutes
+
+
+ customer no 588  and service time :1.007 minutes
+
+
+ customer no 589  and service time :0.279 minutes
+
+
+ customer no 590  and service time :0.251 minutes
+
+
+ customer no 591  and service time :0.415 minutes
+
+
+ customer no 592  and service time :0.682 minutes
+
+
+ customer no 593  and service time :0.137 minutes
+
+
+ customer no 594  and service time :0.406 minutes
+
+
+ customer no 595  and service time :0.908 minutes
+
+
+ customer no 596  and service time :0.393 minutes
+
+
+ customer no 597  and service time :0.671 minutes
+
+
+ customer no 598  and service time :0.856 minutes
+
+
+ customer no 599  and service time :1.833 minutes
+
+
+ customer no 600  and service time :0.055 minutes
+
+
+ customer no 601  and service time :0.120 minutes
+
+
+ customer no 602  and service time :0.159 minutes
+
+
+ customer no 603  and service time :0.119 minutes
+
+
+ customer no 604  and service time :0.773 minutes
+
+
+ customer no 605  and service time :1.555 minutes
+
+
+ customer no 606  and service time :0.093 minutes
+
+
+ customer no 607  and service time :0.304 minutes
+
+
+ customer no 608  and service time :0.368 minutes
+
+
+ customer no 609  and service time :0.555 minutes
+
+
+ customer no 610  and service time :1.114 minutes
+
+
+ customer no 611  and service time :0.482 minutes
+
+
+ customer no 612  and service time :1.280 minutes
+
+
+ customer no 613  and service time :0.157 minutes
+
+
+ customer no 614  and service time :0.127 minutes
+
+
+ customer no 615  and service time :0.037 minutes
+
+
+ customer no 616  and service time :0.142 minutes
+
+
+ customer no 617  and service time :0.497 minutes
+
+
+ customer no 618  and service time :0.213 minutes
+
+
+ customer no 619  and service time :0.142 minutes
+
+
+ customer no 620  and service time :1.071 minutes
+
+
+ customer no 621  and service time :0.744 minutes
+
+
+ customer no 622  and service time :0.196 minutes
+
+
+ customer no 623  and service time :0.432 minutes
+
+
+ customer no 624  and service time :0.547 minutes
+
+
+ customer no 625  and service time :0.261 minutes
+
+
+ customer no 626  and service time :0.711 minutes
+
+
+ customer no 627  and service time :0.278 minutes
+
+
+ customer no 628  and service time :0.621 minutes
+
+
+ customer no 629  and service time :1.101 minutes
+
+
+ customer no 630  and service time :1.190 minutes
+
+
+ customer no 631  and service time :0.445 minutes
+
+
+ customer no 632  and service time :0.356 minutes
+
+
+ customer no 633  and service time :0.457 minutes
+
+
+ customer no 634  and service time :1.344 minutes
+
+
+ customer no 635  and service time :0.592 minutes
+
+
+ customer no 636  and service time :0.798 minutes
+
+
+ customer no 637  and service time :0.240 minutes
+
+
+ customer no 638  and service time :0.453 minutes
+
+
+ customer no 639  and service time :1.245 minutes
+
+
+ customer no 640  and service time :0.677 minutes
+
+
+ customer no 641  and service time :0.488 minutes
+
+
+ customer no 642  and service time :0.165 minutes
+
+
+ customer no 643  and service time :0.224 minutes
+
+
+ customer no 644  and service time :0.458 minutes
+
+
+ customer no 645  and service time :0.368 minutes
+
+
+ customer no 646  and service time :0.616 minutes
+
+
+ customer no 647  and service time :0.079 minutes
+
+
+ customer no 648  and service time :0.064 minutes
+
+
+ customer no 649  and service time :0.257 minutes
+
+
+ customer no 650  and service time :0.154 minutes
+
+
+ customer no 651  and service time :0.026 minutes
+
+
+ customer no 652  and service time :0.020 minutes
+
+
+ customer no 653  and service time :0.462 minutes
+
+
+ customer no 654  and service time :0.173 minutes
+
+
+ customer no 655  and service time :0.172 minutes
+
+
+ customer no 656  and service time :0.048 minutes
+
+
+ customer no 657  and service time :0.398 minutes
+
+
+ customer no 658  and service time :0.029 minutes
+
+
+ customer no 659  and service time :0.629 minutes
+
+
+ customer no 660  and service time :0.028 minutes
+
+
+ customer no 661  and service time :0.195 minutes
+
+
+ customer no 662  and service time :0.447 minutes
+
+
+ customer no 663  and service time :0.406 minutes
+
+
+ customer no 664  and service time :0.254 minutes
+
+
+ customer no 665  and service time :0.183 minutes
+
+
+ customer no 666  and service time :1.303 minutes
+
+
+ customer no 667  and service time :0.508 minutes
+
+
+ customer no 668  and service time :0.693 minutes
+
+
+ customer no 669  and service time :0.349 minutes
+
+
+ customer no 670  and service time :3.129 minutes
+
+
+ customer no 671  and service time :0.093 minutes
+
+
+ customer no 672  and service time :2.701 minutes
+
+
+ customer no 673  and service time :0.191 minutes
+
+
+ customer no 674  and service time :0.924 minutes
+
+
+ customer no 675  and service time :1.211 minutes
+
+
+ customer no 676  and service time :0.128 minutes
+
+
+ customer no 677  and service time :0.567 minutes
+
+
+ customer no 678  and service time :0.325 minutes
+
+
+ customer no 679  and service time :0.184 minutes
+
+
+ customer no 680  and service time :0.209 minutes
+
+
+ customer no 681  and service time :0.282 minutes
+
+
+ customer no 682  and service time :0.467 minutes
+
+
+ customer no 683  and service time :1.166 minutes
+
+
+ customer no 684  and service time :0.028 minutes
+
+
+ customer no 685  and service time :0.020 minutes
+
+
+ customer no 686  and service time :0.016 minutes
+
+
+ customer no 687  and service time :0.060 minutes
+
+
+ customer no 688  and service time :0.220 minutes
+
+
+ customer no 689  and service time :0.648 minutes
+
+
+ customer no 690  and service time :0.256 minutes
+
+
+ customer no 691  and service time :0.107 minutes
+
+
+ customer no 692  and service time :1.427 minutes
+
+
+ customer no 693  and service time :0.129 minutes
+
+
+ customer no 694  and service time :0.612 minutes
+
+
+ customer no 695  and service time :1.385 minutes
+
+
+ customer no 696  and service time :0.309 minutes
+
+
+ customer no 697  and service time :0.320 minutes
+
+
+ customer no 698  and service time :1.691 minutes
+
+
+ customer no 699  and service time :0.046 minutes
+
+
+ customer no 700  and service time :0.033 minutes
+
+
+ customer no 701  and service time :0.327 minutes
+
+
+ customer no 702  and service time :0.141 minutes
+
+
+ customer no 703  and service time :0.187 minutes
+
+
+ customer no 704  and service time :0.031 minutes
+
+
+ customer no 705  and service time :0.070 minutes
+
+
+ customer no 706  and service time :0.395 minutes
+
+
+ customer no 707  and service time :0.034 minutes
+
+
+ customer no 708  and service time :0.293 minutes
+
+
+ customer no 709  and service time :0.524 minutes
+
+
+ customer no 710  and service time :0.582 minutes
+
+
+ customer no 711  and service time :1.035 minutes
+
+
+ customer no 712  and service time :0.089 minutes
+
+
+ customer no 713  and service time :0.062 minutes
+
+
+ customer no 714  and service time :0.040 minutes
+
+
+ customer no 715  and service time :0.196 minutes
+
+
+ customer no 716  and service time :0.172 minutes
+
+
+ customer no 717  and service time :0.405 minutes
+
+
+ customer no 718  and service time :2.548 minutes
+
+
+ customer no 719  and service time :0.636 minutes
+
+
+ customer no 720  and service time :0.357 minutes
+
+
+ customer no 721  and service time :0.980 minutes
+
+
+ customer no 722  and service time :0.084 minutes
+
+
+ customer no 723  and service time :0.335 minutes
+
+
+ customer no 724  and service time :1.005 minutes
+
+
+ customer no 725  and service time :0.236 minutes
+
+
+ customer no 726  and service time :0.593 minutes
+
+
+ customer no 727  and service time :0.465 minutes
+
+
+ customer no 728  and service time :0.582 minutes
+
+
+ customer no 729  and service time :0.281 minutes
+
+
+ customer no 730  and service time :0.318 minutes
+
+
+ customer no 731  and service time :1.091 minutes
+
+
+ customer no 732  and service time :1.301 minutes
+
+
+ customer no 733  and service time :0.230 minutes
+
+
+ customer no 734  and service time :0.867 minutes
+
+
+ customer no 735  and service time :0.195 minutes
+
+
+ customer no 736  and service time :0.102 minutes
+
+
+ customer no 737  and service time :0.328 minutes
+
+
+ customer no 738  and service time :0.408 minutes
+
+
+ customer no 739  and service time :0.839 minutes
+
+
+ customer no 740  and service time :0.334 minutes
+
+
+ customer no 741  and service time :0.004 minutes
+
+
+ customer no 742  and service time :0.532 minutes
+
+
+ customer no 743  and service time :0.064 minutes
+
+
+ customer no 744  and service time :0.080 minutes
+
+
+ customer no 745  and service time :0.449 minutes
+
+
+ customer no 746  and service time :0.141 minutes
+
+
+ customer no 747  and service time :0.032 minutes
+
+
+ customer no 748  and service time :0.135 minutes
+
+
+ customer no 749  and service time :0.031 minutes
+
+
+ customer no 750  and service time :1.426 minutes
+
+
+ customer no 751  and service time :0.071 minutes
+
+
+ customer no 752  and service time :1.289 minutes
+
+
+ customer no 753  and service time :0.851 minutes
+
+
+ customer no 754  and service time :0.015 minutes
+
+
+ customer no 755  and service time :0.322 minutes
+
+
+ customer no 756  and service time :0.612 minutes
+
+
+ customer no 757  and service time :0.038 minutes
+
+
+ customer no 758  and service time :0.405 minutes
+
+
+ customer no 759  and service time :0.868 minutes
+
+
+ customer no 760  and service time :0.157 minutes
+
+
+ customer no 761  and service time :0.819 minutes
+
+
+ customer no 762  and service time :0.401 minutes
+
+
+ customer no 763  and service time :0.597 minutes
+
+
+ customer no 764  and service time :0.361 minutes
+
+
+ customer no 765  and service time :0.117 minutes
+
+
+ customer no 766  and service time :0.272 minutes
+
+
+ customer no 767  and service time :1.396 minutes
+
+
+ customer no 768  and service time :0.736 minutes
+
+
+ customer no 769  and service time :0.021 minutes
+
+
+ customer no 770  and service time :1.923 minutes
+
+
+ customer no 771  and service time :0.292 minutes
+
+
+ customer no 772  and service time :0.046 minutes
+
+
+ customer no 773  and service time :0.657 minutes
+
+
+ customer no 774  and service time :0.300 minutes
+
+
+ customer no 775  and service time :0.394 minutes
+
+
+ customer no 776  and service time :0.373 minutes
+
+
+ customer no 777  and service time :0.578 minutes
+
+
+ customer no 778  and service time :1.059 minutes
+
+
+ customer no 779  and service time :0.540 minutes
+
+
+ customer no 780  and service time :0.118 minutes
+
+
+ customer no 781  and service time :3.498 minutes
+
+
+ customer no 782  and service time :0.391 minutes
+
+
+ customer no 783  and service time :0.856 minutes
+
+
+ customer no 784  and service time :0.942 minutes
+
+
+ customer no 785  and service time :0.366 minutes
+
+
+ customer no 786  and service time :2.161 minutes
+
+
+ customer no 787  and service time :0.220 minutes
+
+
+ customer no 788  and service time :0.197 minutes
+
+
+ customer no 789  and service time :1.572 minutes
+
+
+ customer no 790  and service time :0.043 minutes
+
+
+ customer no 791  and service time :0.026 minutes
+
+
+ customer no 792  and service time :0.394 minutes
+
+
+ customer no 793  and service time :0.346 minutes
+
+
+ customer no 794  and service time :0.121 minutes
+
+
+ customer no 795  and service time :0.089 minutes
+
+
+ customer no 796  and service time :0.256 minutes
+
+
+ customer no 797  and service time :0.066 minutes
+
+
+ customer no 798  and service time :0.371 minutes
+
+
+ customer no 799  and service time :0.244 minutes
+
+
+ customer no 800  and service time :0.866 minutes
+
+
+ customer no 801  and service time :0.266 minutes
+
+
+ customer no 802  and service time :0.830 minutes
+
+
+ customer no 803  and service time :0.005 minutes
+
+
+ customer no 804  and service time :0.379 minutes
+
+
+ customer no 805  and service time :0.040 minutes
+
+
+ customer no 806  and service time :0.343 minutes
+
+
+ customer no 807  and service time :0.804 minutes
+
+
+ customer no 808  and service time :0.014 minutes
+
+
+ customer no 809  and service time :0.074 minutes
+
+
+ customer no 810  and service time :0.799 minutes
+
+
+ customer no 811  and service time :0.038 minutes
+
+
+ customer no 812  and service time :0.252 minutes
+
+
+ customer no 813  and service time :0.295 minutes
+
+
+ customer no 814  and service time :1.577 minutes
+
+
+ customer no 815  and service time :0.786 minutes
+
+
+ customer no 816  and service time :0.082 minutes
+
+
+ customer no 817  and service time :0.010 minutes
+
+
+ customer no 818  and service time :0.122 minutes
+
+
+ customer no 819  and service time :0.716 minutes
+
+
+ customer no 820  and service time :0.092 minutes
+
+
+ customer no 821  and service time :0.240 minutes
+
+
+ customer no 822  and service time :1.082 minutes
+
+
+ customer no 823  and service time :0.196 minutes
+
+
+ customer no 824  and service time :0.277 minutes
+
+
+ customer no 825  and service time :0.902 minutes
+
+
+ customer no 826  and service time :0.058 minutes
+
+
+ customer no 827  and service time :1.856 minutes
+
+
+ customer no 828  and service time :1.103 minutes
+
+
+ customer no 829  and service time :0.328 minutes
+
+
+ customer no 830  and service time :0.180 minutes
+
+
+ customer no 831  and service time :0.158 minutes
+
+
+ customer no 832  and service time :1.053 minutes
+
+
+ customer no 833  and service time :0.038 minutes
+
+
+ customer no 834  and service time :0.395 minutes
+
+
+ customer no 835  and service time :0.233 minutes
+
+
+ customer no 836  and service time :0.189 minutes
+
+
+ customer no 837  and service time :0.059 minutes
+
+
+ customer no 838  and service time :0.085 minutes
+
+
+ customer no 839  and service time :0.222 minutes
+
+
+ customer no 840  and service time :0.224 minutes
+
+
+ customer no 841  and service time :0.513 minutes
+
+
+ customer no 842  and service time :0.907 minutes
+
+
+ customer no 843  and service time :3.067 minutes
+
+
+ customer no 844  and service time :0.011 minutes
+
+
+ customer no 845  and service time :0.369 minutes
+
+
+ customer no 846  and service time :0.364 minutes
+
+
+ customer no 847  and service time :0.591 minutes
+
+
+ customer no 848  and service time :0.496 minutes
+
+
+ customer no 849  and service time :0.468 minutes
+
+
+ customer no 850  and service time :0.212 minutes
+
+
+ customer no 851  and service time :0.922 minutes
+
+
+ customer no 852  and service time :1.033 minutes
+
+
+ customer no 853  and service time :0.228 minutes
+
+
+ customer no 854  and service time :0.160 minutes
+
+
+ customer no 855  and service time :0.622 minutes
+
+
+ customer no 856  and service time :0.129 minutes
+
+
+ customer no 857  and service time :0.517 minutes
+
+
+ customer no 858  and service time :0.336 minutes
+
+
+ customer no 859  and service time :0.228 minutes
+
+
+ customer no 860  and service time :0.652 minutes
+
+
+ customer no 861  and service time :0.494 minutes
+
+
+ customer no 862  and service time :0.105 minutes
+
+
+ customer no 863  and service time :0.631 minutes
+
+
+ customer no 864  and service time :1.578 minutes
+
+
+ customer no 865  and service time :1.132 minutes
+
+
+ customer no 866  and service time :0.038 minutes
+
+
+ customer no 867  and service time :0.367 minutes
+
+
+ customer no 868  and service time :0.566 minutes
+
+
+ customer no 869  and service time :0.231 minutes
+
+
+ customer no 870  and service time :0.202 minutes
+
+
+ customer no 871  and service time :1.156 minutes
+
+
+ customer no 872  and service time :1.411 minutes
+
+
+ customer no 873  and service time :0.422 minutes
+
+
+ customer no 874  and service time :0.191 minutes
+
+
+ customer no 875  and service time :0.018 minutes
+
+
+ customer no 876  and service time :0.118 minutes
+
+
+ customer no 877  and service time :0.947 minutes
+
+
+ customer no 878  and service time :1.402 minutes
+
+
+ customer no 879  and service time :0.543 minutes
+
+
+ customer no 880  and service time :1.057 minutes
+
+
+ customer no 881  and service time :1.148 minutes
+
+
+ customer no 882  and service time :0.641 minutes
+
+
+ customer no 883  and service time :0.225 minutes
+
+
+ customer no 884  and service time :0.676 minutes
+
+
+ customer no 885  and service time :0.367 minutes
+
+
+ customer no 886  and service time :0.247 minutes
+
+
+ customer no 887  and service time :0.375 minutes
+
+
+ customer no 888  and service time :0.111 minutes
+
+
+ customer no 889  and service time :0.221 minutes
+
+
+ customer no 890  and service time :0.251 minutes
+
+
+ customer no 891  and service time :0.115 minutes
+
+
+ customer no 892  and service time :0.369 minutes
+
+
+ customer no 893  and service time :0.618 minutes
+
+
+ customer no 894  and service time :0.164 minutes
+
+
+ customer no 895  and service time :0.225 minutes
+
+
+ customer no 896  and service time :0.816 minutes
+
+
+ customer no 897  and service time :0.134 minutes
+
+
+ customer no 898  and service time :0.687 minutes
+
+
+ customer no 899  and service time :0.234 minutes
+
+
+ customer no 900  and service time :0.657 minutes
+
+
+ customer no 901  and service time :0.089 minutes
+
+
+ customer no 902  and service time :0.027 minutes
+
+
+ customer no 903  and service time :0.259 minutes
+
+
+ customer no 904  and service time :1.175 minutes
+
+
+ customer no 905  and service time :0.139 minutes
+
+
+ customer no 906  and service time :1.142 minutes
+
+
+ customer no 907  and service time :0.132 minutes
+
+
+ customer no 908  and service time :0.144 minutes
+
+
+ customer no 909  and service time :1.360 minutes
+
+
+ customer no 910  and service time :0.549 minutes
+
+
+ customer no 911  and service time :0.434 minutes
+
+
+ customer no 912  and service time :0.076 minutes
+
+
+ customer no 913  and service time :1.339 minutes
+
+
+ customer no 914  and service time :0.561 minutes
+
+
+ customer no 915  and service time :0.791 minutes
+
+
+ customer no 916  and service time :0.025 minutes
+
+
+ customer no 917  and service time :0.072 minutes
+
+
+ customer no 918  and service time :0.811 minutes
+
+
+ customer no 919  and service time :0.284 minutes
+
+
+ customer no 920  and service time :0.152 minutes
+
+
+ customer no 921  and service time :0.053 minutes
+
+
+ customer no 922  and service time :0.533 minutes
+
+
+ customer no 923  and service time :0.050 minutes
+
+
+ customer no 924  and service time :0.347 minutes
+
+
+ customer no 925  and service time :0.018 minutes
+
+
+ customer no 926  and service time :0.067 minutes
+
+
+ customer no 927  and service time :0.405 minutes
+
+
+ customer no 928  and service time :1.398 minutes
+
+
+ customer no 929  and service time :1.789 minutes
+
+
+ customer no 930  and service time :0.007 minutes
+
+
+ customer no 931  and service time :0.023 minutes
+
+
+ customer no 932  and service time :0.675 minutes
+
+
+ customer no 933  and service time :0.135 minutes
+
+
+ customer no 934  and service time :1.637 minutes
+
+
+ customer no 935  and service time :0.068 minutes
+
+
+ customer no 936  and service time :0.655 minutes
+
+
+ customer no 937  and service time :0.087 minutes
+
+
+ customer no 938  and service time :0.521 minutes
+
+
+ customer no 939  and service time :0.155 minutes
+
+
+ customer no 940  and service time :0.362 minutes
+
+
+ customer no 941  and service time :1.706 minutes
+
+
+ customer no 942  and service time :0.072 minutes
+
+
+ customer no 943  and service time :0.223 minutes
+
+
+ customer no 944  and service time :0.002 minutes
+
+
+ customer no 945  and service time :0.147 minutes
+
+
+ customer no 946  and service time :0.053 minutes
+
+
+ customer no 947  and service time :0.266 minutes
+
+
+ customer no 948  and service time :0.043 minutes
+
+
+ customer no 949  and service time :0.161 minutes
+
+
+ customer no 950  and service time :0.054 minutes
+
+
+ customer no 951  and service time :0.377 minutes
+
+
+ customer no 952  and service time :0.304 minutes
+
+
+ customer no 953  and service time :0.767 minutes
+
+
+ customer no 954  and service time :0.762 minutes
+
+
+ customer no 955  and service time :0.309 minutes
+
+
+ customer no 956  and service time :0.016 minutes
+
+
+ customer no 957  and service time :0.385 minutes
+
+
+ customer no 958  and service time :0.651 minutes
+
+
+ customer no 959  and service time :0.250 minutes
+
+
+ customer no 960  and service time :0.071 minutes
+
+
+ customer no 961  and service time :0.578 minutes
+
+
+ customer no 962  and service time :0.144 minutes
+
+
+ customer no 963  and service time :0.340 minutes
+
+
+ customer no 964  and service time :0.637 minutes
+
+
+ customer no 965  and service time :0.950 minutes
+
+
+ customer no 966  and service time :0.702 minutes
+
+
+ customer no 967  and service time :0.226 minutes
+
+
+ customer no 968  and service time :0.422 minutes
+
+
+ customer no 969  and service time :0.040 minutes
+
+
+ customer no 970  and service time :0.088 minutes
+
+
+ customer no 971  and service time :0.302 minutes
+
+
+ customer no 972  and service time :0.251 minutes
+
+
+ customer no 973  and service time :0.416 minutes
+
+
+ customer no 974  and service time :0.519 minutes
+
+
+ customer no 975  and service time :0.267 minutes
+
+
+ customer no 976  and service time :0.858 minutes
+
+
+ customer no 977  and service time :0.014 minutes
+
+
+ customer no 978  and service time :0.034 minutes
+
+
+ customer no 979  and service time :0.243 minutes
+
+
+ customer no 980  and service time :0.306 minutes
+
+
+ customer no 981  and service time :1.062 minutes
+
+
+ customer no 982  and service time :0.343 minutes
+
+
+ customer no 983  and service time :0.295 minutes
+
+
+ customer no 984  and service time :0.463 minutes
+
+
+ customer no 985  and service time :0.115 minutes
+
+
+ customer no 986  and service time :0.052 minutes
+
+
+ customer no 987  and service time :0.521 minutes
+
+
+ customer no 988  and service time :0.275 minutes
+
+
+ customer no 989  and service time :0.783 minutes
+
+
+ customer no 990  and service time :0.666 minutes
+
+
+ customer no 991  and service time :0.015 minutes
+
+
+ customer no 992  and service time :0.279 minutes
+
+
+ customer no 993  and service time :0.344 minutes
+
+
+ customer no 994  and service time :0.363 minutes
+
+
+ customer no 995  and service time :0.485 minutes
+
+
+ customer no 996  and service time :0.015 minutes
+
+
+ customer no 997  and service time :1.110 minutes
+
+
+ customer no 998  and service time :0.136 minutes
+
+
+ customer no 999  and service time :1.067 minutes
+
+
+ customer no 1000  and service time :1.590 minutes
+
+
